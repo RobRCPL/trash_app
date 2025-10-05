@@ -1,0 +1,422 @@
+[
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Gabaryty",
+		"dataodbioru" : "2025-04-16"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Gabaryty",
+		"dataodbioru" : "2025-11-26"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-03-05"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-03-19"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-04-02"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-04-16"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-04-30"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-05-14"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-05-28"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-06-11"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-06-25"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-07-09"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-07-23"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-08-06"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-08-20"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-09-03"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-09-17"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-10-01"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-10-15"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-10-29"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-11-12"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-11-26"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-12-10"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-12-20"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-03-07"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-04-04"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-05-02"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-06-06"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-07-04"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-08-01"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-09-05"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-10-03"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-11-07"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-12-05"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-03-07"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-03-21"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-04-04"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-04-18"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-05-02"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-05-16"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-06-06"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-06-20"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-07-04"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-07-18"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-08-01"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-08-16"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-09-05"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-09-19"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-10-03"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-10-17"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-11-07"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-11-21"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-12-05"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-12-19"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-03-20"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-04-03"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-04-17"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-04-26"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-05-15"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-05-29"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-06-12"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-06-26"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-07-10"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-07-24"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-08-07"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-08-21"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-09-04"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-09-18"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-10-02"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-10-16"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-10-30"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-11-27"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-12-18"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-03-26"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-05-28"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-07-23"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-09-24"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-11-26"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Gabaryty",
+		"dataodbioru" : "2025-04-07"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Gabaryty",
+		"dataodbioru" : "2025-11-17"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-03-10"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-03-24"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-04-07"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-04-19"
+	}
+]
