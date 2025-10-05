@@ -1,9 +1,11 @@
 import { Paper,Select,MenuItem,FormControl, InputLabel } from "@mui/material";
 import React, {useState, useEffect} from "react";
+import { useNavigate } from "react-router-dom";
 
 function Comp2({strReg, selectedStreet, onRegionChange, onStreetChange }) {
 
   const [streets, setStreets] = useState([]);
+  const navigate = useNavigate();
 
   useEffect(() => {
     const streetList = [...new Set(strReg.map(item => item.ulice))].sort();
@@ -18,6 +20,11 @@ function Comp2({strReg, selectedStreet, onRegionChange, onStreetChange }) {
   }
 }, [selectedStreet, strReg, onRegionChange]);
 
+const handleStreetChange = (street) => {
+    onStreetChange(street);
+    // Navigate to home page after selection
+    navigate("/");
+};
 
   return (
 
@@ -30,7 +37,7 @@ function Comp2({strReg, selectedStreet, onRegionChange, onStreetChange }) {
               labelId="street-select-label"
               label="Wybierz ulicę"
               value={selectedStreet}
-              onChange={(e) => onStreetChange(e.target.value)}
+              onChange={(e) => handleStreetChange(e.target.value)}
             >
               {streets.map((item) => (
     <MenuItem

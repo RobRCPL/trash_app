@@ -1,12 +1,13 @@
 import { Paper,Select,MenuItem,FormControl, InputLabel, Chip, Box,Typography } from "@mui/material";
 import React, {useState, useEffect} from "react";
 import { motion, AnimatePresence } from "framer-motion";
-
+import { useNavigate } from "react-router-dom";
 
 function Comp1({strReg, selectedRegion, selectedStreet, onRegionChange, onStreetChange}) {
 
   const [regions, setRegions] = useState([]);
   const [regionStreets, setRegionStreets] = useState([]);
+  const navigate = useNavigate();
 
   const formatRegion = (region) => {
   return region.replace(/([a-zA-Z]+)(\d+)/, "$1 $2");
@@ -23,6 +24,11 @@ function Comp1({strReg, selectedRegion, selectedStreet, onRegionChange, onStreet
       .map(item => item.ulice);
     setRegionStreets(streets);
   }, [strReg,selectedRegion]);
+
+  const handleStreetClick = (street) => {
+    onStreetChange(street);
+    navigate("/");
+  };
 
   return (
   <div style={{padding: "5px 20px", border: "2px solid black", margin: "20px", backgroundColor: "#6575ce", borderRadius: "10px"}}>
@@ -60,7 +66,8 @@ function Comp1({strReg, selectedRegion, selectedStreet, onRegionChange, onStreet
                       color="primary"
                       size="medium"
                       label={street}
-                      onClick={() => onStreetChange(street)}
+                      onClick={() => handleStreetClick(street)}
+                      // onClick={() => onStreetChange(street)}
                       sx={{ m: 0.5 }}
                     />
                   ))}
