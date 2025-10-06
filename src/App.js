@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import Comp1 from "./components/Comp1";
 import Comp2 from "./components/Comp2";
 import Navbar from "./components/Navbar";
+import AddPhone from "./components/AddPhone";
 import streetRegion from "./data/streetRegion.json";
 import datyodbioru from "./data/datyodbioru.json";
 import {Chip, Paper, Grid, Typography, Box} from '@mui/material';
@@ -134,6 +135,14 @@ function App() {
             onRegionChange={handleRegionChange}
             onStreetChange={handleStreetChange}
           />
+        }
+      />
+      <Route
+        path="/addphone"
+        element={
+          <AddPhone 
+          selectedRegion={selectedRegion}
+          selectedStreet={selectedStreet}/>
         }
       />
     </Routes>

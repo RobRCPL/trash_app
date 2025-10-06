@@ -30,6 +30,13 @@ function Navbar() {
               backgroundColor: "#1a9ed1", // slightly darker for hover
             },}}
             variant="contained" size="small" href="/Comp2">Wybierz Ulicę</Button>
+          <Button sx={{
+            backgroundColor: "#215e80ff",
+            color: "#fff",
+            '&:hover': {
+              backgroundColor: "#1a9ed1", // slightly darker for hover
+            },}}
+            variant="contained" size="small" href="/AddPhone">Powiadomienia</Button>
         </Toolbar>
       </AppBar>
     </Box>
