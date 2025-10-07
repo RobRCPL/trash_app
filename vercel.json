@@ -1,4 +1,9 @@
 {
   "version": 2,
-  "crons": "./cron.json"
+  "crons": [
+    {
+      "path": "/api/send-sms",
+      "schedule": "37 17 * * *"
+    }
+  ]
 }
