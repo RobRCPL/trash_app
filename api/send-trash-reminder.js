@@ -10,7 +10,7 @@ export default async function handler(req, res) {
     const dateStr = tomorrow.toISOString().split("T")[0]; // np. "2025-10-09"
 
     // Wczytaj lokalny plik JSON (z folderu public lub src/data)
-    const filePath = path.join(process.cwd(), "datyodbioru.json");
+    const filePath = path.join(process.cwd(), "src", "data", "datyodbioru.json");
     const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
 
     // Znajdź, które rejony mają odbiór jutro
