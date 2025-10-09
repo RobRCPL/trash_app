@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/api/send-trash-reminder",
-      "schedule": "0 15 * * *"
+      "schedule": "0 18 * * *"
     }
   ]
 }
