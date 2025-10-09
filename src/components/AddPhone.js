@@ -33,7 +33,7 @@ function AddPhone({ selectedRegion, selectedStreet }) {
         elevation={4}
         style={{ padding: "20px", margin: "20px auto", maxWidth: "500px" }}
       >
-        <p>Proszę wybrać ulicę i rejon, aby móc dodać numer telefonu.</p>
+        <p>Proszę wybrać ulicę i rejon, aby móc ustawić powiadomienia.</p>
       </Paper>
     );
   }
@@ -49,14 +49,14 @@ function AddPhone({ selectedRegion, selectedStreet }) {
           maxWidth: "500px",
         }}
       >
-        <h2>Dodaj numer telefonu do bazy</h2>
+        <h2>Dodaj email do bazy</h2>
         <form ref={form} onSubmit={sendEmail}>
           <label>Imię lub cokolwiek</label>
           <br />
           <input type="text" name="user_name" required />
           <br />
 
-          <label>Numer telefonu</label>
+          <label>Email</label>
           <br />
           <input type="text" name="user_phone" required />
           <br />
@@ -103,8 +103,7 @@ function AddPhone({ selectedRegion, selectedStreet }) {
         </form>
 
         <p style={{ marginTop: "10px", fontSize: "0.9em" }}>
-          Po wysłaniu formularza, numer zostanie dodany do bazy danych i będzie
-          widoczny w aplikacji po zatwierdzeniu przez administratora.
+          Po wysłaniu formularza, email zostanie dodany do bazy danych. Powiadomienia zaczną przychodzić po zatwierdzeniu przez administratora.
         </p>
       </Paper>
     </div>
