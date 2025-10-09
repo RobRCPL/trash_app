@@ -1,398 +1,8 @@
 [
 	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-03-10"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-03-24"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-04-07"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Szkło",
-		"dataodbioru" : "2025-11-05"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-12-19"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-12-05"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-11-21"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-11-07"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-10-17"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-12-16"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-11-18"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-10-21"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-10-07"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Papier",
-		"dataodbioru" : "2025-12-05"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Papier",
-		"dataodbioru" : "2025-11-07"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-12-29"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-12-15"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-12-01"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-11-17"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-11-03"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-10-20"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-10-06"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Gabaryty",
-		"dataodbioru" : "2025-04-07"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-04-19"
-	},
-	{
-		"rejon" : "Rejon1",
-		"rodzajodpadu" : "Gabaryty",
-		"dataodbioru" : "2025-11-17"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-10-06"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Gabaryty",
-		"dataodbioru" : "2025-11-19"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-10-14"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-10-28"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-11-08"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-11-25"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-12-09"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-12-23"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Papier",
-		"dataodbioru" : "2025-10-07"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Papier",
-		"dataodbioru" : "2025-11-04"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Papier",
-		"dataodbioru" : "2025-12-02"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-10-20"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-11-03"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-11-17"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-12-01"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-12-15"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-10-09"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-10-23"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-11-20"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-12-11"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Szkło",
-		"dataodbioru" : "2025-11-12"
-	},
-	{
-		"rejon" : "Rejon3",
-		"rodzajodpadu" : "Szkło",
-		"dataodbioru" : "2025-11-19"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-11-08"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-11-25"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-12-09"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-12-23"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-10-28"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Metale i Tworzywa",
-		"dataodbioru" : "2025-10-14"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Gabaryty",
-		"dataodbioru" : "2025-11-25"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Szkło",
-		"dataodbioru" : "2025-12-17"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Szkło",
-		"dataodbioru" : "2025-10-15"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-12-18"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-11-27"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-10-30"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-10-16"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-10-02"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Papier",
-		"dataodbioru" : "2025-12-27"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Papier",
-		"dataodbioru" : "2025-11-28"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Papier",
-		"dataodbioru" : "2025-10-24"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-12-18"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-12-04"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-11-20"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-11-06"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-10-23"
-	},
-	{
-		"rejon" : "Rejon7",
-		"rodzajodpadu" : "Zmieszane",
-		"dataodbioru" : "2025-10-09"
-	},
-	{
-		"rejon" : "Rejon9",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-10-30"
-	},
-	{
-		"rejon" : "Rejon9",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-11-27"
-	},
-	{
-		"rejon" : "Rejon9",
-		"rodzajodpadu" : "Bioodpady",
-		"dataodbioru" : "2025-12-18"
-	},
-	{
-		"rejon" : "Rejon9",
-		"rodzajodpadu" : "Szkło",
-		"dataodbioru" : "2025-03-26"
-	},
-	{
 		"rejon" : "Rejon9",
 		"rodzajodpadu" : "Gabaryty",
 		"dataodbioru" : "2025-04-16"
-	},
-	{
-		"rejon" : "Rejon9",
-		"rodzajodpadu" : "Szkło",
-		"dataodbioru" : "2025-07-23"
-	},
-	{
-		"rejon" : "Rejon9",
-		"rodzajodpadu" : "Szkło",
-		"dataodbioru" : "2025-09-24"
-	},
-	{
-		"rejon" : "Rejon9",
-		"rodzajodpadu" : "Szkło",
-		"dataodbioru" : "2025-11-26"
-	},
-	{
-		"rejon" : "Rejon9",
-		"rodzajodpadu" : "Szkło",
-		"dataodbioru" : "2025-05-28"
 	},
 	{
 		"rejon" : "Rejon9",
@@ -738,5 +348,500 @@
 		"rejon" : "Rejon9",
 		"rodzajodpadu" : "Bioodpady",
 		"dataodbioru" : "2025-10-16"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-10-30"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-11-27"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-12-18"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-03-26"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-05-28"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-07-23"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-09-24"
+	},
+	{
+		"rejon" : "Rejon9",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-11-26"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Gabaryty",
+		"dataodbioru" : "2025-04-07"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Gabaryty",
+		"dataodbioru" : "2025-11-17"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Gabaryty",
+		"dataodbioru" : "2025-11-19"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-03-10"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-03-24"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-04-07"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-04-19"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-10-14"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-10-28"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-11-08"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-11-25"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-12-09"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-12-23"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-10-07"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-11-04"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-12-02"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-10-06"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-10-20"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-11-03"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-11-17"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-12-01"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-12-15"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-10-09"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-10-23"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-11-20"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-12-11"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-11-12"
+	},
+	{
+		"rejon" : "Rejon3",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-11-19"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-10-09"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-10-23"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-11-06"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-11-20"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-12-04"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-12-18"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-10-24"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-11-28"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-12-27"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-10-02"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-10-16"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-10-30"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-11-27"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-12-18"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-10-15"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-12-17"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Gabaryty",
+		"dataodbioru" : "2025-11-25"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-10-14"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-10-28"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-11-08"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-11-25"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-12-09"
+	},
+	{
+		"rejon" : "Rejon7",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-12-23"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-10-06"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-10-20"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-11-03"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-11-17"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-12-01"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-12-15"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-12-29"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-11-07"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-12-05"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-10-07"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-10-21"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-11-18"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-12-16"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-10-17"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-11-07"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-11-21"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-12-05"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-12-19"
+	},
+	{
+		"rejon" : "Rejon1",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-11-05"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-10-13"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-10-27"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-11-10"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-11-24"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-12-08"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Zmieszane",
+		"dataodbioru" : "2025-12-22"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-10-10"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-10-24"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-11-14"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-11-28"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-12-12"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Metale i Tworzywa",
+		"dataodbioru" : "2025-12-29"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-10-06"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-10-20"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-11-17"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Bioodpady",
+		"dataodbioru" : "2025-12-15"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-10-10"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-11-14"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Papier",
+		"dataodbioru" : "2025-12-12"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Szkło",
+		"dataodbioru" : "2025-12-03"
+	},
+	{
+		"rejon" : "Rejon2",
+		"rodzajodpadu" : "Gabaryty",
+		"dataodbioru" : "2025-11-18"
 	}
 ]
