@@ -56,8 +56,71 @@ export default async function handler(req, res) {
           from: process.env.GMAIL_USER,
           to,
           subject: `📦 Odbiór odpadów jutro (${rejon})`,
-          text: `Jutro (${dateStr}) odbiór: ${odpady} w ${rejon}.`,
+          html: `
+            <html>
+              <body style="font-family: Arial, sans-serif; line-height: 1.6;">
+                <table style="width: 100%; border: none; padding: 20px; background-color: #f4f4f4;">
+                  <tr>
+                    <td style="background-color: #3a8dff; color: white; padding: 10px 20px; text-align: center; font-size: 20px;">
+                      📦 Przypomnienie: Odbiór odpadów
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding: 20px; background-color: white; border: 1px solid #ddd;">
+                      <h2 style="color: #333;">Odbiór odpadów w regionie ${rejon}</h2>
+                      <p style="color: #555; font-size: 16px;">
+                        <strong>Data:</strong> ${dateStr}<br />
+                        <strong>Rodzaj odpadów:</strong>
+                        <div style="margin-top: 10px; display: flex; flex-wrap: wrap; gap: 10px;">
+                          ${odpady.split(', ').map((odpad) => {
+                            const chipColor = getColorForWaste(odpad);
+                            return `<span style="background-color: ${chipColor}; color: white; padding: 5px 10px; border-radius: 15px; font-size: 14px; text-transform: capitalize;">${odpad}</span>`;
+                          }).join('')}
+                        </div>
+                      </p>
+                      <p style="color: #555; font-size: 16px;">
+                        Prosimy o wystawienie odpadów przed 7:00 rano.
+                      </p>
+                      <p style="font-size: 14px; color: #888;">Jeśli masz pytania, skontaktuj się z nami.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="background-color: #3a8dff; color: white; padding: 10px; text-align: center; font-size: 12px;">
+                      Dziękujemy, że dbasz o czystość w naszym regionie! 🌍
+                    </td>
+                  </tr>
+                </table>
+              </body>
+            </html>
+          `,
         });
+
+        // Function to assign color to each waste type
+        function getColorForWaste(odpad) {
+          switch (odpad.toLowerCase()) {
+            case 'Papier':
+              return '#2196f3'; // Yellow for paper
+            case 'Metale i Tworzywa':
+              return 'yellow'; // Blue for plastic
+            case 'Szkło':
+              return '#4caf50'; // Green for glass
+            case 'Bioodpady':
+              return 'brown'; // Red for organic waste (bio)
+            case 'Zmieszane':
+              return '#6d6d6dff'; // Grey for mixed waste
+            case 'Gabaryty':
+              return '#6a1b9a';
+            default:
+              return '#9e9e9e'; // Default grey if no match
+          }
+        }
+
+        // await transporter.sendMail({
+        //   from: process.env.GMAIL_USER,
+        //   to,
+        //   subject: `📦 Odbiór odpadów jutro (${rejon})`,
+        //   text: `Jutro (${dateStr}) odbiór: ${odpady} w ${rejon}.`,
+        // });
       }
 
       console.log(`Wysłano przypomnienia dla ${rejon}: ${odpady}`);
