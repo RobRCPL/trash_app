@@ -94,7 +94,7 @@ function App() {
               padding: 3,
               margin: 3,
               borderRadius: 2,
-              background: "linear-gradient(135deg, #6575ce, #4f63d2)",
+              background: "linear-gradient(150deg, #4C763B, #B0CE88)",
               boxShadow: 3,
               color: "#fff",
             }}

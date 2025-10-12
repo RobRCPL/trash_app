@@ -31,8 +31,8 @@ function Comp1({strReg, selectedRegion, selectedStreet, onRegionChange, onStreet
   };
 
   return (
-  <div style={{padding: "5px 20px", border: "2px solid black", margin: "20px", backgroundColor: "#4C763B", borderRadius: "10px"}}>
-    <h1>Wybierz rejon z listy. Pojawi się lista ulic do wyboru. Kliknij szukaną ulicę.</h1>
+  <div style={{padding: "5px 20px", margin: "20px", background: "linear-gradient(150deg, #4C763B, #B0CE88)", borderRadius: "10px"}}>
+    <h1 style={{color: "#fff"}}>Wybierz rejon z listy. Pojawi się lista ulic do wyboru. Kliknij szukaną ulicę.</h1>
     <Paper elevation={4} style={{padding: "10px", margin: "10px", textAlign: "left"}}>
       <FormControl sx={{ m: 1, minWidth: 160 }} size="small">
         <InputLabel id="region-select-label">Wybierz region</InputLabel>

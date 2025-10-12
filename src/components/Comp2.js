@@ -28,8 +28,8 @@ const handleStreetChange = (street) => {
 
   return (
 
-    <div style={{padding: "5px 20px", border: "2px solid black", margin: "20px", backgroundColor: "#4C763B", borderRadius: "10px"}}>
-      <h1>Wybierz ulicę z listy. Rejon zostanie automatycznie przypisany</h1>
+    <div style={{padding: "5px 20px", margin: "20px", background: "linear-gradient(150deg, #4C763B, #B0CE88)", borderRadius: "10px", boxShadow: 3}}>
+      <h1 style={{color: "#fff"}}>Wybierz ulicę z listy. Rejon zostanie automatycznie przypisany</h1>
       <Paper elevation={4} style={{padding: "10px", margin: "10px", textAlign: "left"}}>
           <FormControl sx={{ m: 1, minWidth: 150 }} size="small">
             <InputLabel id="street-select-label">Wybierz ulicę</InputLabel>
