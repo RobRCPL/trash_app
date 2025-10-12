@@ -1,588 +1,68 @@
 [
 	{
-		"_id" : 457,
-		"rejon" : "Rejon1",
-		"ulice" : "Sucharskiego"
-	},
-	{
-		"_id" : 456,
-		"rejon" : "Rejon1",
-		"ulice" : "Sadowa"
-	},
-	{
-		"_id" : 455,
-		"rejon" : "Rejon1",
-		"ulice" : "pl. Wolności"
-	},
-	{
-		"_id" : 454,
-		"rejon" : "Rejon1",
-		"ulice" : "Parkowa"
-	},
-	{
-		"_id" : 453,
-		"rejon" : "Rejon1",
-		"ulice" : "Narutowicza"
-	},
-	{
-		"_id" : 452,
-		"rejon" : "Rejon1",
-		"ulice" : "Mokra"
-	},
-	{
-		"_id" : 451,
-		"rejon" : "Rejon1",
-		"ulice" : "Kwiatowa"
-	},
-	{
-		"_id" : 450,
-		"rejon" : "Rejon1",
-		"ulice" : "Krzywiec-Okołowicza"
-	},
-	{
-		"_id" : 449,
-		"rejon" : "Rejon1",
-		"ulice" : "Kopernika"
-	},
-	{
-		"_id" : 448,
-		"rejon" : "Rejon1",
-		"ulice" : "Kaczeńcowa"
-	},
-	{
-		"_id" : 447,
-		"rejon" : "Rejon1",
-		"ulice" : "Daszyńskiego"
-	},
-	{
-		"_id" : 446,
-		"rejon" : "Rejon1",
-		"ulice" : "Bukszpanowa"
-	},
-	{
-		"_id" : 445,
-		"rejon" : "Rejon1",
-		"ulice" : "8-Marca"
-	},
-	{
-		"_id" : 612,
-		"rejon" : "Rejon10",
-		"ulice" : "Sąsiedzka"
-	},
-	{
-		"_id" : 611,
-		"rejon" : "Rejon10",
-		"ulice" : "Rodzinna"
-	},
-	{
-		"_id" : 610,
-		"rejon" : "Rejon10",
-		"ulice" : "Niesięcin"
-	},
-	{
-		"_id" : 609,
-		"rejon" : "Rejon10",
-		"ulice" : "Makowa"
-	},
-	{
-		"_id" : 608,
-		"rejon" : "Rejon10",
-		"ulice" : "Kręta"
-	},
-	{
-		"_id" : 618,
-		"rejon" : "Rejon11",
-		"ulice" : "Wodociągowa"
-	},
-	{
-		"_id" : 617,
-		"rejon" : "Rejon11",
-		"ulice" : "Szafirowa"
-	},
-	{
-		"_id" : 616,
-		"rejon" : "Rejon11",
-		"ulice" : "Mirosławice"
-	},
-	{
-		"_id" : 619,
-		"rejon" : "Rejon11",
-		"ulice" : "Kwarcowa"
-	},
-	{
-		"_id" : 615,
-		"rejon" : "Rejon11",
-		"ulice" : "Ignacew"
-	},
-	{
-		"_id" : 614,
-		"rejon" : "Rejon11",
-		"ulice" : "Diamentowa"
-	},
-	{
-		"_id" : 613,
-		"rejon" : "Rejon11",
-		"ulice" : "Bursztynowa"
-	},
-	{
-		"_id" : 621,
-		"rejon" : "Rejon12",
-		"ulice" : "Bechcice Stare"
-	},
-	{
-		"_id" : 622,
-		"rejon" : "Rejon12",
-		"ulice" : "Bechcice Nowe"
-	},
-	{
-		"_id" : 620,
-		"rejon" : "Rejon12",
-		"ulice" : "Bechcice"
-	},
-	{
-		"_id" : 625,
-		"rejon" : "Rejon13",
-		"ulice" : "Piękna"
-	},
-	{
-		"_id" : 624,
-		"rejon" : "Rejon13",
-		"ulice" : "Miła"
-	},
-	{
-		"_id" : 623,
-		"rejon" : "Rejon13",
-		"ulice" : "Dobra"
-	},
-	{
-		"_id" : 629,
-		"rejon" : "Rejon14",
-		"ulice" : "Sezamkowa"
-	},
-	{
-		"_id" : 627,
-		"rejon" : "Rejon14",
-		"ulice" : "Przyrodnicza"
-	},
-	{
-		"_id" : 626,
-		"rejon" : "Rejon14",
-		"ulice" : "Nadrzeczna"
-	},
-	{
-		"_id" : 628,
-		"rejon" : "Rejon14",
-		"ulice" : "Migdałowa"
-	},
-	{
-		"_id" : 633,
-		"rejon" : "Rejon15",
-		"ulice" : "Spółdzielcza"
-	},
-	{
-		"_id" : 632,
-		"rejon" : "Rejon15",
-		"ulice" : "Kościelna"
-	},
-	{
-		"_id" : 631,
-		"rejon" : "Rejon15",
-		"ulice" : "Cegielniana"
-	},
-	{
-		"_id" : 630,
-		"rejon" : "Rejon15",
-		"ulice" : "Armii Krajowej"
-	},
-	{
-		"_id" : 634,
-		"rejon" : "Rejon16",
-		"ulice" : "Lutomierska"
-	},
-	{
-		"_id" : 469,
-		"rejon" : "Rejon2",
-		"ulice" : "Żeromskiego"
-	},
-	{
-		"_id" : 468,
-		"rejon" : "Rejon2",
-		"ulice" : "Słowackiego"
-	},
-	{
-		"_id" : 467,
-		"rejon" : "Rejon2",
-		"ulice" : "Skłodowskiej-Curie"
-	},
-	{
-		"_id" : 466,
-		"rejon" : "Rejon2",
-		"ulice" : "Północna"
-	},
-	{
-		"_id" : 465,
-		"rejon" : "Rejon2",
-		"ulice" : "Piłsudskiego"
-	},
-	{
-		"_id" : 464,
-		"rejon" : "Rejon2",
-		"ulice" : "Ogrodowa"
-	},
-	{
-		"_id" : 463,
-		"rejon" : "Rejon2",
-		"ulice" : "Norwida"
-	},
-	{
-		"_id" : 462,
-		"rejon" : "Rejon2",
-		"ulice" : "Łabentowicza"
-	},
-	{
-		"_id" : 461,
-		"rejon" : "Rejon2",
-		"ulice" : "Kombatantów"
-	},
-	{
-		"_id" : 460,
-		"rejon" : "Rejon2",
-		"ulice" : "Gdańska"
-	},
-	{
-		"_id" : 459,
-		"rejon" : "Rejon2",
-		"ulice" : "Dolna"
-	},
-	{
-		"_id" : 458,
-		"rejon" : "Rejon2",
-		"ulice" : "Dąbrowska"
-	},
-	{
-		"_id" : 490,
-		"rejon" : "Rejon3",
-		"ulice" : "Zagajnikowa"
-	},
-	{
-		"_id" : 489,
-		"rejon" : "Rejon3",
-		"ulice" : "Zacisze"
-	},
-	{
-		"_id" : 488,
-		"rejon" : "Rejon3",
-		"ulice" : "Wyspiańskiego"
-	},
-	{
-		"_id" : 487,
-		"rejon" : "Rejon3",
-		"ulice" : "Tuwima"
-	},
-	{
-		"_id" : 486,
-		"rejon" : "Rejon3",
-		"ulice" : "Srebrzyńska"
-	},
-	{
-		"_id" : 484,
-		"rejon" : "Rejon3",
-		"ulice" : "Reja"
-	},
-	{
-		"_id" : 485,
-		"rejon" : "Rejon3",
-		"ulice" : "Prusa"
-	},
-	{
-		"_id" : 483,
-		"rejon" : "Rejon3",
-		"ulice" : "Południowa"
-	},
-	{
-		"_id" : 482,
-		"rejon" : "Rejon3",
-		"ulice" : "Piaskowa"
-	},
-	{
-		"_id" : 481,
-		"rejon" : "Rejon3",
-		"ulice" : "Nałkowskiej"
-	},
-	{
-		"_id" : 480,
-		"rejon" : "Rejon3",
-		"ulice" : "Leśna"
-	},
-	{
-		"_id" : 479,
-		"rejon" : "Rejon3",
-		"ulice" : "Langiewicza"
-	},
-	{
-		"_id" : 478,
-		"rejon" : "Rejon3",
-		"ulice" : "Krótka"
-	},
-	{
-		"_id" : 477,
-		"rejon" : "Rejon3",
-		"ulice" : "Kołłątaja"
-	},
-	{
-		"_id" : 476,
-		"rejon" : "Rejon3",
-		"ulice" : "Kolejowa"
-	},
-	{
-		"_id" : 475,
-		"rejon" : "Rejon3",
-		"ulice" : "Kochanowskiego"
-	},
-	{
-		"_id" : 474,
-		"rejon" : "Rejon3",
-		"ulice" : "Kasprowicza"
-	},
-	{
-		"_id" : 473,
-		"rejon" : "Rejon3",
-		"ulice" : "K.Przerwy-Tetmajera"
-	},
-	{
-		"_id" : 472,
-		"rejon" : "Rejon3",
-		"ulice" : "Broniewskiego"
-	},
-	{
-		"_id" : 471,
-		"rejon" : "Rejon3",
-		"ulice" : "Baczyńskiego"
-	},
-	{
-		"_id" : 470,
-		"rejon" : "Rejon3",
-		"ulice" : "1-go Maja"
-	},
-	{
-		"_id" : 527,
-		"rejon" : "Rejon4",
-		"ulice" : "Zielona"
-	},
-	{
-		"_id" : 526,
-		"rejon" : "Rejon4",
-		"ulice" : "Wrzosowa"
-	},
-	{
-		"_id" : 525,
-		"rejon" : "Rejon4",
-		"ulice" : "Wiśniowa"
-	},
-	{
-		"_id" : 524,
-		"rejon" : "Rejon4",
-		"ulice" : "Wiosenna"
-	},
-	{
-		"_id" : 523,
-		"rejon" : "Rejon4",
-		"ulice" : "Wierzbowa"
-	},
-	{
-		"_id" : 522,
-		"rejon" : "Rejon4",
-		"ulice" : "Świerkowa"
-	},
-	{
-		"_id" : 521,
-		"rejon" : "Rejon4",
-		"ulice" : "Spokojna"
-	},
-	{
-		"_id" : 520,
-		"rejon" : "Rejon4",
-		"ulice" : "Sosnowa"
-	},
-	{
-		"_id" : 519,
-		"rejon" : "Rejon4",
-		"ulice" : "Słoneczna"
-	},
-	{
-		"_id" : 518,
-		"rejon" : "Rejon4",
-		"ulice" : "Sasankowa"
-	},
-	{
-		"_id" : 517,
-		"rejon" : "Rejon4",
-		"ulice" : "Rszewska"
-	},
-	{
-		"_id" : 516,
-		"rejon" : "Rejon4",
-		"ulice" : "Rszew Legionowo"
-	},
-	{
-		"_id" : 515,
-		"rejon" : "Rejon4",
-		"ulice" : "Poziomkowa"
-	},
-	{
-		"_id" : 514,
-		"rejon" : "Rejon4",
-		"ulice" : "Polna"
-	},
-	{
-		"_id" : 513,
-		"rejon" : "Rejon4",
-		"ulice" : "Modrzewiowa"
-	},
-	{
-		"_id" : 512,
-		"rejon" : "Rejon4",
-		"ulice" : "Mała"
-	},
-	{
-		"_id" : 511,
-		"rejon" : "Rejon4",
-		"ulice" : "Łużycka Park"
-	},
-	{
-		"_id" : 510,
-		"rejon" : "Rejon4",
-		"ulice" : "Łużycka"
-	},
-	{
-		"_id" : 509,
-		"rejon" : "Rejon4",
-		"ulice" : "Liściasta"
-	},
-	{
-		"_id" : 508,
-		"rejon" : "Rejon4",
-		"ulice" : "Lipowa"
-	},
-	{
-		"_id" : 507,
-		"rejon" : "Rejon4",
-		"ulice" : "Letniskowa"
-	},
-	{
-		"_id" : 506,
-		"rejon" : "Rejon4",
-		"ulice" : "Leszczynowa"
-	},
-	{
-		"_id" : 505,
-		"rejon" : "Rejon4",
-		"ulice" : "Krzywa"
-	},
-	{
-		"_id" : 504,
-		"rejon" : "Rejon4",
-		"ulice" : "Konwaliowa"
-	},
-	{
-		"_id" : 503,
-		"rejon" : "Rejon4",
-		"ulice" : "Konopnickiej"
-	},
-	{
-		"_id" : 502,
-		"rejon" : "Rejon4",
-		"ulice" : "Klonowa"
-	},
-	{
-		"_id" : 501,
-		"rejon" : "Rejon4",
-		"ulice" : "Kasztanowa"
-	},
-	{
-		"_id" : 500,
-		"rejon" : "Rejon4",
-		"ulice" : "Jodłowa"
-	},
-	{
-		"_id" : 499,
-		"rejon" : "Rejon4",
-		"ulice" : "Jesionowa"
-	},
-	{
-		"_id" : 498,
-		"rejon" : "Rejon4",
-		"ulice" : "Jesienna"
-	},
-	{
-		"_id" : 497,
-		"rejon" : "Rejon4",
-		"ulice" : "Jarzębinowa"
-	},
-	{
-		"_id" : 496,
-		"rejon" : "Rejon4",
-		"ulice" : "Grabowa"
-	},
-	{
-		"_id" : 495,
-		"rejon" : "Rejon4",
-		"ulice" : "Dębowa"
-	},
-	{
-		"_id" : 494,
-		"rejon" : "Rejon4",
-		"ulice" : "Czereśniowa"
-	},
-	{
-		"_id" : 493,
-		"rejon" : "Rejon4",
-		"ulice" : "Bukowa"
-	},
-	{
-		"_id" : 492,
-		"rejon" : "Rejon4",
-		"ulice" : "Brzozowa"
-	},
-	{
-		"_id" : 491,
-		"rejon" : "Rejon4",
-		"ulice" : "Akacjowa"
-	},
-	{
-		"_id" : 549,
+		"_id" : 528,
 		"rejon" : "Rejon5",
-		"ulice" : "Ułanów"
+		"ulice" : "Chmielna"
 	},
 	{
-		"_id" : 548,
+		"_id" : 529,
 		"rejon" : "Rejon5",
-		"ulice" : "Sowińskiego"
+		"ulice" : "Cmentarna"
 	},
 	{
-		"_id" : 547,
+		"_id" : 530,
 		"rejon" : "Rejon5",
-		"ulice" : "Słodowa"
+		"ulice" : "Górna"
 	},
 	{
-		"_id" : 546,
+		"_id" : 531,
 		"rejon" : "Rejon5",
-		"ulice" : "Sienkiewicza"
+		"ulice" : "Jana Pawła II"
 	},
 	{
-		"_id" : 545,
+		"_id" : 532,
 		"rejon" : "Rejon5",
-		"ulice" : "Pułaskiego"
+		"ulice" : "Jęczmienna"
 	},
 	{
-		"_id" : 544,
+		"_id" : 533,
 		"rejon" : "Rejon5",
-		"ulice" : "Poniatowskiego"
+		"ulice" : "Kątna"
 	},
 	{
-		"_id" : 543,
+		"_id" : 534,
 		"rejon" : "Rejon5",
-		"ulice" : "Pl. Kościuszki"
+		"ulice" : "Kilińskiego"
+	},
+	{
+		"_id" : 535,
+		"rejon" : "Rejon5",
+		"ulice" : "Kosynierów"
+	},
+	{
+		"_id" : 536,
+		"rejon" : "Rejon5",
+		"ulice" : "Legionów"
+	},
+	{
+		"_id" : 537,
+		"rejon" : "Rejon5",
+		"ulice" : "Mickiewicza"
+	},
+	{
+		"_id" : 538,
+		"rejon" : "Rejon5",
+		"ulice" : "Miodowa"
+	},
+	{
+		"_id" : 539,
+		"rejon" : "Rejon5",
+		"ulice" : "Młynarska"
+	},
+	{
+		"_id" : 540,
+		"rejon" : "Rejon5",
+		"ulice" : "Moniuszki"
 	},
 	{
 		"_id" : 541,
@@ -595,74 +75,39 @@
 		"ulice" : "Nasienna"
 	},
 	{
-		"_id" : 540,
+		"_id" : 543,
 		"rejon" : "Rejon5",
-		"ulice" : "Moniuszki"
+		"ulice" : "Pl. Kościuszki"
 	},
 	{
-		"_id" : 539,
+		"_id" : 544,
 		"rejon" : "Rejon5",
-		"ulice" : "Młynarska"
+		"ulice" : "Poniatowskiego"
 	},
 	{
-		"_id" : 538,
+		"_id" : 545,
 		"rejon" : "Rejon5",
-		"ulice" : "Miodowa"
+		"ulice" : "Pułaskiego"
 	},
 	{
-		"_id" : 537,
+		"_id" : 546,
 		"rejon" : "Rejon5",
-		"ulice" : "Mickiewicza"
+		"ulice" : "Sienkiewicza"
 	},
 	{
-		"_id" : 536,
+		"_id" : 547,
 		"rejon" : "Rejon5",
-		"ulice" : "Legionów"
+		"ulice" : "Słodowa"
 	},
 	{
-		"_id" : 535,
+		"_id" : 548,
 		"rejon" : "Rejon5",
-		"ulice" : "Kosynierów"
+		"ulice" : "Sowińskiego"
 	},
 	{
-		"_id" : 534,
+		"_id" : 549,
 		"rejon" : "Rejon5",
-		"ulice" : "Kilińskiego"
-	},
-	{
-		"_id" : 533,
-		"rejon" : "Rejon5",
-		"ulice" : "Kątna"
-	},
-	{
-		"_id" : 532,
-		"rejon" : "Rejon5",
-		"ulice" : "Jęczmienna"
-	},
-	{
-		"_id" : 531,
-		"rejon" : "Rejon5",
-		"ulice" : "Jana Pawła II"
-	},
-	{
-		"_id" : 530,
-		"rejon" : "Rejon5",
-		"ulice" : "Górna"
-	},
-	{
-		"_id" : 529,
-		"rejon" : "Rejon5",
-		"ulice" : "Cmentarna"
-	},
-	{
-		"_id" : 528,
-		"rejon" : "Rejon5",
-		"ulice" : "Chmielna"
-	},
-	{
-		"_id" : 551,
-		"rejon" : "Rejon6",
-		"ulice" : "Łódzka"
+		"ulice" : "Ułanów"
 	},
 	{
 		"_id" : 550,
@@ -670,154 +115,9 @@
 		"ulice" : "Łaska"
 	},
 	{
-		"_id" : 581,
-		"rejon" : "Rejon7",
-		"ulice" : "Urokliwa"
-	},
-	{
-		"_id" : 580,
-		"rejon" : "Rejon7",
-		"ulice" : "Uprawna"
-	},
-	{
-		"_id" : 579,
-		"rejon" : "Rejon7",
-		"ulice" : "Tulipanowa"
-	},
-	{
-		"_id" : 578,
-		"rejon" : "Rejon7",
-		"ulice" : "Storczykowa"
-	},
-	{
-		"_id" : 577,
-		"rejon" : "Rejon7",
-		"ulice" : "Srebrne Zacisze"
-	},
-	{
-		"_id" : 576,
-		"rejon" : "Rejon7",
-		"ulice" : "Srebrne Ogrody"
-	},
-	{
-		"_id" : 575,
-		"rejon" : "Rejon7",
-		"ulice" : "Srebrna Polana"
-	},
-	{
-		"_id" : 574,
-		"rejon" : "Rejon7",
-		"ulice" : "Srebrna Ostoja"
-	},
-	{
-		"_id" : 573,
-		"rejon" : "Rejon7",
-		"ulice" : "Słonecznikowa"
-	},
-	{
-		"_id" : 572,
-		"rejon" : "Rejon7",
-		"ulice" : "Przytulna"
-	},
-	{
-		"_id" : 571,
-		"rejon" : "Rejon7",
-		"ulice" : "Przygraniczna"
-	},
-	{
-		"_id" : 570,
-		"rejon" : "Rejon7",
-		"ulice" : "Pogodna"
-	},
-	{
-		"_id" : 569,
-		"rejon" : "Rejon7",
-		"ulice" : "Plantowa"
-	},
-	{
-		"_id" : 568,
-		"rejon" : "Rejon7",
-		"ulice" : "Owocowa"
-	},
-	{
-		"_id" : 567,
-		"rejon" : "Rejon7",
-		"ulice" : "Osiedlowa"
-	},
-	{
-		"_id" : 566,
-		"rejon" : "Rejon7",
-		"ulice" : "Nowa"
-	},
-	{
-		"_id" : 565,
-		"rejon" : "Rejon7",
-		"ulice" : "Nastrojowa"
-	},
-	{
-		"_id" : 564,
-		"rejon" : "Rejon7",
-		"ulice" : "Narcyzowa"
-	},
-	{
-		"_id" : 563,
-		"rejon" : "Rejon7",
-		"ulice" : "Magnoliowa"
-	},
-	{
-		"_id" : 562,
-		"rejon" : "Rejon7",
-		"ulice" : "Łąkowa"
-	},
-	{
-		"_id" : 561,
-		"rejon" : "Rejon7",
-		"ulice" : "Łanowa"
-	},
-	{
-		"_id" : 560,
-		"rejon" : "Rejon7",
-		"ulice" : "Liliowa"
-	},
-	{
-		"_id" : 559,
-		"rejon" : "Rejon7",
-		"ulice" : "Lawendowa"
-	},
-	{
-		"_id" : 558,
-		"rejon" : "Rejon7",
-		"ulice" : "Krokusowa"
-	},
-	{
-		"_id" : 557,
-		"rejon" : "Rejon7",
-		"ulice" : "Jasna"
-	},
-	{
-		"_id" : 582,
-		"rejon" : "Rejon7",
-		"ulice" : "Innowacyjna"
-	},
-	{
-		"_id" : 556,
-		"rejon" : "Rejon7",
-		"ulice" : "Hiacyntowa"
-	},
-	{
-		"_id" : 555,
-		"rejon" : "Rejon7",
-		"ulice" : "Frezjowa"
-	},
-	{
-		"_id" : 554,
-		"rejon" : "Rejon7",
-		"ulice" : "Fiołkowa"
-	},
-	{
-		"_id" : 553,
-		"rejon" : "Rejon7",
-		"ulice" : "Działkowa"
+		"_id" : 551,
+		"rejon" : "Rejon6",
+		"ulice" : "Łódzka"
 	},
 	{
 		"_id" : 552,
@@ -825,29 +125,149 @@
 		"ulice" : "Boczna"
 	},
 	{
-		"_id" : 588,
-		"rejon" : "Rejon8",
-		"ulice" : "Zgierska"
+		"_id" : 553,
+		"rejon" : "Rejon7",
+		"ulice" : "Działkowa"
 	},
 	{
-		"_id" : 587,
-		"rejon" : "Rejon8",
-		"ulice" : "Srebrna Dąbrowa"
+		"_id" : 554,
+		"rejon" : "Rejon7",
+		"ulice" : "Fiołkowa"
 	},
 	{
-		"_id" : 586,
-		"rejon" : "Rejon8",
-		"ulice" : "Poprzeczna"
+		"_id" : 555,
+		"rejon" : "Rejon7",
+		"ulice" : "Frezjowa"
 	},
 	{
-		"_id" : 585,
-		"rejon" : "Rejon8",
-		"ulice" : "Nad Jasienią"
+		"_id" : 556,
+		"rejon" : "Rejon7",
+		"ulice" : "Hiacyntowa"
 	},
 	{
-		"_id" : 584,
-		"rejon" : "Rejon8",
-		"ulice" : "Dąbrowa"
+		"_id" : 557,
+		"rejon" : "Rejon7",
+		"ulice" : "Jasna"
+	},
+	{
+		"_id" : 558,
+		"rejon" : "Rejon7",
+		"ulice" : "Krokusowa"
+	},
+	{
+		"_id" : 559,
+		"rejon" : "Rejon7",
+		"ulice" : "Lawendowa"
+	},
+	{
+		"_id" : 560,
+		"rejon" : "Rejon7",
+		"ulice" : "Liliowa"
+	},
+	{
+		"_id" : 561,
+		"rejon" : "Rejon7",
+		"ulice" : "Łanowa"
+	},
+	{
+		"_id" : 562,
+		"rejon" : "Rejon7",
+		"ulice" : "Łąkowa"
+	},
+	{
+		"_id" : 563,
+		"rejon" : "Rejon7",
+		"ulice" : "Magnoliowa"
+	},
+	{
+		"_id" : 564,
+		"rejon" : "Rejon7",
+		"ulice" : "Narcyzowa"
+	},
+	{
+		"_id" : 565,
+		"rejon" : "Rejon7",
+		"ulice" : "Nastrojowa"
+	},
+	{
+		"_id" : 566,
+		"rejon" : "Rejon7",
+		"ulice" : "Nowa"
+	},
+	{
+		"_id" : 567,
+		"rejon" : "Rejon7",
+		"ulice" : "Osiedlowa"
+	},
+	{
+		"_id" : 568,
+		"rejon" : "Rejon7",
+		"ulice" : "Owocowa"
+	},
+	{
+		"_id" : 569,
+		"rejon" : "Rejon7",
+		"ulice" : "Plantowa"
+	},
+	{
+		"_id" : 570,
+		"rejon" : "Rejon7",
+		"ulice" : "Pogodna"
+	},
+	{
+		"_id" : 571,
+		"rejon" : "Rejon7",
+		"ulice" : "Przygraniczna"
+	},
+	{
+		"_id" : 572,
+		"rejon" : "Rejon7",
+		"ulice" : "Przytulna"
+	},
+	{
+		"_id" : 573,
+		"rejon" : "Rejon7",
+		"ulice" : "Słonecznikowa"
+	},
+	{
+		"_id" : 574,
+		"rejon" : "Rejon7",
+		"ulice" : "Srebrna Ostoja"
+	},
+	{
+		"_id" : 575,
+		"rejon" : "Rejon7",
+		"ulice" : "Srebrna Polana"
+	},
+	{
+		"_id" : 576,
+		"rejon" : "Rejon7",
+		"ulice" : "Srebrne Ogrody"
+	},
+	{
+		"_id" : 577,
+		"rejon" : "Rejon7",
+		"ulice" : "Srebrne Zacisze"
+	},
+	{
+		"_id" : 578,
+		"rejon" : "Rejon7",
+		"ulice" : "Storczykowa"
+	},
+	{
+		"_id" : 579,
+		"rejon" : "Rejon7",
+		"ulice" : "Tulipanowa"
+	},
+	{
+		"_id" : 580,
+		"rejon" : "Rejon7",
+		"ulice" : "Uprawna"
+	},
+	{
+		"_id" : 581,
+		"rejon" : "Rejon7",
+		"ulice" : "Urokliwa"
 	},
 	{
 		"_id" : 583,
@@ -855,24 +275,94 @@
 		"ulice" : "Aleksandrowska"
 	},
 	{
-		"_id" : 607,
-		"rejon" : "Rejon9",
-		"ulice" : "Żurawia"
+		"_id" : 584,
+		"rejon" : "Rejon8",
+		"ulice" : "Dąbrowa"
 	},
 	{
-		"_id" : 606,
-		"rejon" : "Rejon9",
-		"ulice" : "Zajęcza"
+		"_id" : 585,
+		"rejon" : "Rejon8",
+		"ulice" : "Nad Jasienią"
 	},
 	{
-		"_id" : 605,
-		"rejon" : "Rejon9",
-		"ulice" : "Wypoczynkowa"
+		"_id" : 586,
+		"rejon" : "Rejon8",
+		"ulice" : "Poprzeczna"
 	},
 	{
-		"_id" : 604,
+		"_id" : 587,
+		"rejon" : "Rejon8",
+		"ulice" : "Srebrna Dąbrowa"
+	},
+	{
+		"_id" : 588,
+		"rejon" : "Rejon8",
+		"ulice" : "Zgierska"
+	},
+	{
+		"_id" : 589,
 		"rejon" : "Rejon9",
-		"ulice" : "Wycieczkowa"
+		"ulice" : "Bażancia"
+	},
+	{
+		"_id" : 590,
+		"rejon" : "Rejon9",
+		"ulice" : "Bociania"
+	},
+	{
+		"_id" : 591,
+		"rejon" : "Rejon9",
+		"ulice" : "Gołębia"
+	},
+	{
+		"_id" : 592,
+		"rejon" : "Rejon9",
+		"ulice" : "Jaskółcza"
+	},
+	{
+		"_id" : 593,
+		"rejon" : "Rejon9",
+		"ulice" : "Jastrzębia"
+	},
+	{
+		"_id" : 594,
+		"rejon" : "Rejon9",
+		"ulice" : "Józefów"
+	},
+	{
+		"_id" : 595,
+		"rejon" : "Rejon9",
+		"ulice" : "Kasztelańska"
+	},
+	{
+		"_id" : 596,
+		"rejon" : "Rejon9",
+		"ulice" : "Krucza"
+	},
+	{
+		"_id" : 597,
+		"rejon" : "Rejon9",
+		"ulice" : "Rysia"
+	},
+	{
+		"_id" : 598,
+		"rejon" : "Rejon9",
+		"ulice" : "Sarnia"
+	},
+	{
+		"_id" : 599,
+		"rejon" : "Rejon9",
+		"ulice" : "Skrzydlata"
+	},
+	{
+		"_id" : 600,
+		"rejon" : "Rejon9",
+		"ulice" : "Słowicza"
+	},
+	{
+		"_id" : 601,
+		"rejon" : "Rejon9",
+		"ulice" : "Sobolowa"
 	},
 	{
 		"_id" : 602,
@@ -885,68 +375,578 @@
 		"ulice" : "Szpacza"
 	},
 	{
-		"_id" : 601,
+		"_id" : 604,
 		"rejon" : "Rejon9",
-		"ulice" : "Sobolowa"
+		"ulice" : "Wycieczkowa"
 	},
 	{
-		"_id" : 600,
+		"_id" : 605,
 		"rejon" : "Rejon9",
-		"ulice" : "Słowicza"
+		"ulice" : "Wypoczynkowa"
 	},
 	{
-		"_id" : 599,
+		"_id" : 606,
 		"rejon" : "Rejon9",
-		"ulice" : "Skrzydlata"
+		"ulice" : "Zajęcza"
 	},
 	{
-		"_id" : 598,
+		"_id" : 607,
 		"rejon" : "Rejon9",
-		"ulice" : "Sarnia"
+		"ulice" : "Żurawia"
 	},
 	{
-		"_id" : 597,
-		"rejon" : "Rejon9",
-		"ulice" : "Rysia"
+		"_id" : 608,
+		"rejon" : "Rejon10",
+		"ulice" : "Kręta"
 	},
 	{
-		"_id" : 596,
-		"rejon" : "Rejon9",
-		"ulice" : "Krucza"
+		"_id" : 609,
+		"rejon" : "Rejon10",
+		"ulice" : "Makowa"
 	},
 	{
-		"_id" : 595,
-		"rejon" : "Rejon9",
-		"ulice" : "Kasztelańska"
+		"_id" : 610,
+		"rejon" : "Rejon10",
+		"ulice" : "Niesięcin"
 	},
 	{
-		"_id" : 594,
-		"rejon" : "Rejon9",
-		"ulice" : "Józefów"
+		"_id" : 611,
+		"rejon" : "Rejon10",
+		"ulice" : "Rodzinna"
 	},
 	{
-		"_id" : 593,
-		"rejon" : "Rejon9",
-		"ulice" : "Jastrzębia"
+		"_id" : 612,
+		"rejon" : "Rejon10",
+		"ulice" : "Sąsiedzka"
 	},
 	{
-		"_id" : 592,
-		"rejon" : "Rejon9",
-		"ulice" : "Jaskółcza"
+		"_id" : 613,
+		"rejon" : "Rejon11",
+		"ulice" : "Bursztynowa"
 	},
 	{
-		"_id" : 591,
-		"rejon" : "Rejon9",
-		"ulice" : "Gołębia"
+		"_id" : 614,
+		"rejon" : "Rejon11",
+		"ulice" : "Diamentowa"
 	},
 	{
-		"_id" : 590,
-		"rejon" : "Rejon9",
-		"ulice" : "Bociania"
+		"_id" : 615,
+		"rejon" : "Rejon11",
+		"ulice" : "Ignacew"
 	},
 	{
-		"_id" : 589,
-		"rejon" : "Rejon9",
-		"ulice" : "Bażancia"
+		"_id" : 616,
+		"rejon" : "Rejon11",
+		"ulice" : "Mirosławice"
+	},
+	{
+		"_id" : 617,
+		"rejon" : "Rejon11",
+		"ulice" : "Szafirowa"
+	},
+	{
+		"_id" : 618,
+		"rejon" : "Rejon11",
+		"ulice" : "Wodociągowa"
+	},
+	{
+		"_id" : 619,
+		"rejon" : "Rejon11",
+		"ulice" : "Kwarcowa"
+	},
+	{
+		"_id" : 620,
+		"rejon" : "Rejon12",
+		"ulice" : "Bechcice"
+	},
+	{
+		"_id" : 621,
+		"rejon" : "Rejon12",
+		"ulice" : "Bechcice Stare"
+	},
+	{
+		"_id" : 622,
+		"rejon" : "Rejon12",
+		"ulice" : "Bechcice Nowe"
+	},
+	{
+		"_id" : 623,
+		"rejon" : "Rejon13",
+		"ulice" : "Dobra"
+	},
+	{
+		"_id" : 624,
+		"rejon" : "Rejon13",
+		"ulice" : "Miła"
+	},
+	{
+		"_id" : 625,
+		"rejon" : "Rejon13",
+		"ulice" : "Piękna"
+	},
+	{
+		"_id" : 626,
+		"rejon" : "Rejon14",
+		"ulice" : "Nadrzeczna"
+	},
+	{
+		"_id" : 627,
+		"rejon" : "Rejon14",
+		"ulice" : "Przyrodnicza"
+	},
+	{
+		"_id" : 628,
+		"rejon" : "Rejon14",
+		"ulice" : "Migdałowa"
+	},
+	{
+		"_id" : 629,
+		"rejon" : "Rejon14",
+		"ulice" : "Sezamkowa"
+	},
+	{
+		"_id" : 630,
+		"rejon" : "Rejon15",
+		"ulice" : "Armii Krajowej"
+	},
+	{
+		"_id" : 631,
+		"rejon" : "Rejon15",
+		"ulice" : "Cegielniana"
+	},
+	{
+		"_id" : 632,
+		"rejon" : "Rejon15",
+		"ulice" : "Kościelna"
+	},
+	{
+		"_id" : 633,
+		"rejon" : "Rejon15",
+		"ulice" : "Spółdzielcza"
+	},
+	{
+		"_id" : 634,
+		"rejon" : "Rejon16",
+		"ulice" : "Lutomierska"
+	},
+	{
+		"_id" : 635,
+		"rejon" : "Rejon7",
+		"ulice" : "Warzywnicza"
+	},
+	{
+		"_id" : 445,
+		"rejon" : "Rejon1",
+		"ulice" : "8-Marca"
+	},
+	{
+		"_id" : 446,
+		"rejon" : "Rejon1",
+		"ulice" : "Bukszpanowa"
+	},
+	{
+		"_id" : 447,
+		"rejon" : "Rejon1",
+		"ulice" : "Daszyńskiego"
+	},
+	{
+		"_id" : 448,
+		"rejon" : "Rejon1",
+		"ulice" : "Kaczeńcowa"
+	},
+	{
+		"_id" : 449,
+		"rejon" : "Rejon1",
+		"ulice" : "Kopernika"
+	},
+	{
+		"_id" : 450,
+		"rejon" : "Rejon1",
+		"ulice" : "Krzywiec-Okołowicza"
+	},
+	{
+		"_id" : 451,
+		"rejon" : "Rejon1",
+		"ulice" : "Kwiatowa"
+	},
+	{
+		"_id" : 452,
+		"rejon" : "Rejon1",
+		"ulice" : "Mokra"
+	},
+	{
+		"_id" : 453,
+		"rejon" : "Rejon1",
+		"ulice" : "Narutowicza"
+	},
+	{
+		"_id" : 454,
+		"rejon" : "Rejon1",
+		"ulice" : "Parkowa"
+	},
+	{
+		"_id" : 455,
+		"rejon" : "Rejon1",
+		"ulice" : "pl. Wolności"
+	},
+	{
+		"_id" : 456,
+		"rejon" : "Rejon1",
+		"ulice" : "Sadowa"
+	},
+	{
+		"_id" : 457,
+		"rejon" : "Rejon1",
+		"ulice" : "Sucharskiego"
+	},
+	{
+		"_id" : 458,
+		"rejon" : "Rejon2",
+		"ulice" : "Dąbrowska"
+	},
+	{
+		"_id" : 459,
+		"rejon" : "Rejon2",
+		"ulice" : "Dolna"
+	},
+	{
+		"_id" : 460,
+		"rejon" : "Rejon2",
+		"ulice" : "Gdańska"
+	},
+	{
+		"_id" : 461,
+		"rejon" : "Rejon2",
+		"ulice" : "Kombatantów"
+	},
+	{
+		"_id" : 462,
+		"rejon" : "Rejon2",
+		"ulice" : "Łabentowicza"
+	},
+	{
+		"_id" : 463,
+		"rejon" : "Rejon2",
+		"ulice" : "Norwida"
+	},
+	{
+		"_id" : 464,
+		"rejon" : "Rejon2",
+		"ulice" : "Ogrodowa"
+	},
+	{
+		"_id" : 465,
+		"rejon" : "Rejon2",
+		"ulice" : "Piłsudskiego"
+	},
+	{
+		"_id" : 466,
+		"rejon" : "Rejon2",
+		"ulice" : "Północna"
+	},
+	{
+		"_id" : 467,
+		"rejon" : "Rejon2",
+		"ulice" : "Skłodowskiej-Curie"
+	},
+	{
+		"_id" : 468,
+		"rejon" : "Rejon2",
+		"ulice" : "Słowackiego"
+	},
+	{
+		"_id" : 469,
+		"rejon" : "Rejon2",
+		"ulice" : "Żeromskiego"
+	},
+	{
+		"_id" : 470,
+		"rejon" : "Rejon3",
+		"ulice" : "1-go Maja"
+	},
+	{
+		"_id" : 471,
+		"rejon" : "Rejon3",
+		"ulice" : "Baczyńskiego"
+	},
+	{
+		"_id" : 472,
+		"rejon" : "Rejon3",
+		"ulice" : "Broniewskiego"
+	},
+	{
+		"_id" : 473,
+		"rejon" : "Rejon3",
+		"ulice" : "K.Przerwy-Tetmajera"
+	},
+	{
+		"_id" : 474,
+		"rejon" : "Rejon3",
+		"ulice" : "Kasprowicza"
+	},
+	{
+		"_id" : 475,
+		"rejon" : "Rejon3",
+		"ulice" : "Kochanowskiego"
+	},
+	{
+		"_id" : 476,
+		"rejon" : "Rejon3",
+		"ulice" : "Kolejowa"
+	},
+	{
+		"_id" : 477,
+		"rejon" : "Rejon3",
+		"ulice" : "Kołłątaja"
+	},
+	{
+		"_id" : 478,
+		"rejon" : "Rejon3",
+		"ulice" : "Krótka"
+	},
+	{
+		"_id" : 479,
+		"rejon" : "Rejon3",
+		"ulice" : "Langiewicza"
+	},
+	{
+		"_id" : 480,
+		"rejon" : "Rejon3",
+		"ulice" : "Leśna"
+	},
+	{
+		"_id" : 481,
+		"rejon" : "Rejon3",
+		"ulice" : "Nałkowskiej"
+	},
+	{
+		"_id" : 482,
+		"rejon" : "Rejon3",
+		"ulice" : "Piaskowa"
+	},
+	{
+		"_id" : 483,
+		"rejon" : "Rejon3",
+		"ulice" : "Południowa"
+	},
+	{
+		"_id" : 484,
+		"rejon" : "Rejon3",
+		"ulice" : "Reja"
+	},
+	{
+		"_id" : 485,
+		"rejon" : "Rejon3",
+		"ulice" : "Prusa"
+	},
+	{
+		"_id" : 486,
+		"rejon" : "Rejon3",
+		"ulice" : "Srebrzyńska"
+	},
+	{
+		"_id" : 487,
+		"rejon" : "Rejon3",
+		"ulice" : "Tuwima"
+	},
+	{
+		"_id" : 488,
+		"rejon" : "Rejon3",
+		"ulice" : "Wyspiańskiego"
+	},
+	{
+		"_id" : 489,
+		"rejon" : "Rejon3",
+		"ulice" : "Zacisze"
+	},
+	{
+		"_id" : 490,
+		"rejon" : "Rejon3",
+		"ulice" : "Zagajnikowa"
+	},
+	{
+		"_id" : 491,
+		"rejon" : "Rejon4",
+		"ulice" : "Akacjowa"
+	},
+	{
+		"_id" : 492,
+		"rejon" : "Rejon4",
+		"ulice" : "Brzozowa"
+	},
+	{
+		"_id" : 493,
+		"rejon" : "Rejon4",
+		"ulice" : "Bukowa"
+	},
+	{
+		"_id" : 494,
+		"rejon" : "Rejon4",
+		"ulice" : "Czereśniowa"
+	},
+	{
+		"_id" : 495,
+		"rejon" : "Rejon4",
+		"ulice" : "Dębowa"
+	},
+	{
+		"_id" : 496,
+		"rejon" : "Rejon4",
+		"ulice" : "Grabowa"
+	},
+	{
+		"_id" : 497,
+		"rejon" : "Rejon4",
+		"ulice" : "Jarzębinowa"
+	},
+	{
+		"_id" : 498,
+		"rejon" : "Rejon4",
+		"ulice" : "Jesienna"
+	},
+	{
+		"_id" : 499,
+		"rejon" : "Rejon4",
+		"ulice" : "Jesionowa"
+	},
+	{
+		"_id" : 500,
+		"rejon" : "Rejon4",
+		"ulice" : "Jodłowa"
+	},
+	{
+		"_id" : 501,
+		"rejon" : "Rejon4",
+		"ulice" : "Kasztanowa"
+	},
+	{
+		"_id" : 502,
+		"rejon" : "Rejon4",
+		"ulice" : "Klonowa"
+	},
+	{
+		"_id" : 503,
+		"rejon" : "Rejon4",
+		"ulice" : "Konopnickiej"
+	},
+	{
+		"_id" : 504,
+		"rejon" : "Rejon4",
+		"ulice" : "Konwaliowa"
+	},
+	{
+		"_id" : 505,
+		"rejon" : "Rejon4",
+		"ulice" : "Krzywa"
+	},
+	{
+		"_id" : 506,
+		"rejon" : "Rejon4",
+		"ulice" : "Leszczynowa"
+	},
+	{
+		"_id" : 507,
+		"rejon" : "Rejon4",
+		"ulice" : "Letniskowa"
+	},
+	{
+		"_id" : 508,
+		"rejon" : "Rejon4",
+		"ulice" : "Lipowa"
+	},
+	{
+		"_id" : 509,
+		"rejon" : "Rejon4",
+		"ulice" : "Liściasta"
+	},
+	{
+		"_id" : 510,
+		"rejon" : "Rejon4",
+		"ulice" : "Łużycka"
+	},
+	{
+		"_id" : 511,
+		"rejon" : "Rejon4",
+		"ulice" : "Łużycka Park"
+	},
+	{
+		"_id" : 512,
+		"rejon" : "Rejon4",
+		"ulice" : "Mała"
+	},
+	{
+		"_id" : 513,
+		"rejon" : "Rejon4",
+		"ulice" : "Modrzewiowa"
+	},
+	{
+		"_id" : 514,
+		"rejon" : "Rejon4",
+		"ulice" : "Polna"
+	},
+	{
+		"_id" : 515,
+		"rejon" : "Rejon4",
+		"ulice" : "Poziomkowa"
+	},
+	{
+		"_id" : 516,
+		"rejon" : "Rejon4",
+		"ulice" : "Rszew Legionowo"
+	},
+	{
+		"_id" : 517,
+		"rejon" : "Rejon4",
+		"ulice" : "Rszewska"
+	},
+	{
+		"_id" : 518,
+		"rejon" : "Rejon4",
+		"ulice" : "Sasankowa"
+	},
+	{
+		"_id" : 519,
+		"rejon" : "Rejon4",
+		"ulice" : "Słoneczna"
+	},
+	{
+		"_id" : 520,
+		"rejon" : "Rejon4",
+		"ulice" : "Sosnowa"
+	},
+	{
+		"_id" : 521,
+		"rejon" : "Rejon4",
+		"ulice" : "Spokojna"
+	},
+	{
+		"_id" : 522,
+		"rejon" : "Rejon4",
+		"ulice" : "Świerkowa"
+	},
+	{
+		"_id" : 523,
+		"rejon" : "Rejon4",
+		"ulice" : "Wierzbowa"
+	},
+	{
+		"_id" : 524,
+		"rejon" : "Rejon4",
+		"ulice" : "Wiosenna"
+	},
+	{
+		"_id" : 525,
+		"rejon" : "Rejon4",
+		"ulice" : "Wiśniowa"
+	},
+	{
+		"_id" : 526,
+		"rejon" : "Rejon4",
+		"ulice" : "Wrzosowa"
+	},
+	{
+		"_id" : 527,
+		"rejon" : "Rejon4",
+		"ulice" : "Zielona"
 	}
 ]

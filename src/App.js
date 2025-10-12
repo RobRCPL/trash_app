@@ -61,6 +61,18 @@ function App() {
     }
   }, [selectedRegion, selectedStreet]);
 
+  // Helper: liczy dni do odbioru, ignorując godziny
+  const daysUntil = (dateStr) => {
+    const today = new Date();
+    today.setHours(0, 0, 0, 0); // dzisiejsza północ 
+
+    const d = new Date(dateStr);
+    d.setHours(0, 0, 0, 0); // północ daty odbioru
+
+    return Math.round((d - today) / (1000 * 60 * 60 * 24));
+  };
+
+
 
   return (
     <div style={{backgroundColor: "#c2c2c2ff", padding: "5px", borderRadius: "10px", minHeight: "100vh"}}>
@@ -222,8 +234,7 @@ function App() {
                     // ✅ Days left calculation
                     const today = new Date();
                     today.setHours(0, 0, 0, 0);
-                    const diffTime = date - today;
-                    const daysLeft = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+                    const daysLeft = daysUntil(item.dataodbioru);
 
                     // ✅ Label for days left
                     let daysLabel = "";
