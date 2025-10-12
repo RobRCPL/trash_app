@@ -63,13 +63,25 @@ function AddPhone({ selectedRegion, selectedStreet }) {
 
           <label>Ulica</label>
           <br />
-          <Chip label={selectedStreet} color="success" sx={{borderRadius: "5px"}}/>
+          <Chip label={selectedStreet} color="success" sx={{ 
+                borderRadius: "5px", 
+                color: "#FFF", 
+                backgroundColor: "#4C763B", // delikatny zielony dla kontrastu
+                fontWeight: "bold",
+                fontSize: "0.9rem"
+              }}/>
           <input type="hidden" name="selected_street" value={selectedStreet} />
           <br />
 
           <label>Rejon</label>
           <br />
-          <Chip label={selectedRegion} color="success" sx={{borderRadius: "5px"}}/>
+          <Chip label={selectedRegion} color="success" sx={{ 
+                borderRadius: "5px", 
+                color: "#FFF", 
+                backgroundColor: "#4C763B", // delikatny zielony dla kontrastu
+                fontWeight: "bold",
+                fontSize: "0.9rem"
+              }}/>
           <input type="hidden" name="selected_region" value={selectedRegion} />
           <br />
 

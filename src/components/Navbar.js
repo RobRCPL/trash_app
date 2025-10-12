@@ -6,7 +6,7 @@ function Navbar() {
       <AppBar
         position="static"
         sx={{ 
-          backgroundColor: "#8990b4ff", 
+          backgroundColor: "#4C763B", 
           borderRadius: "10px" 
         }}
       >
@@ -19,14 +19,14 @@ function Navbar() {
             padding: { xs: '5px 10px', sm: '0 20px' } // mniejszy padding na telefonach
           }}
         >
-          <Typography variant="h6" sx={{ flexGrow: { xs: 1, sm: 0 } }}>Trash App</Typography>
+          <Typography variant="h6" sx={{ flexGrow: { xs: 1, sm: 0 }, color: "#FFFD8F" }}>Trash App</Typography>
 
           <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 1 }}>
             <Button
               sx={{
-                backgroundColor: "#215e80ff",
+                backgroundColor: "#043915",
                 color: "#fff",
-                '&:hover': { backgroundColor: "#1a9ed1" },
+                '&:hover': { backgroundColor: "#B0CE88" },
               }}
               variant="contained"
               size="small"
@@ -36,9 +36,9 @@ function Navbar() {
             </Button>
             <Button
               sx={{
-                backgroundColor: "#215e80ff",
+                backgroundColor: "#043915",
                 color: "#fff",
-                '&:hover': { backgroundColor: "#1a9ed1" },
+                '&:hover': { backgroundColor: "#B0CE88" },
               }}
               variant="contained"
               size="small"
@@ -48,9 +48,9 @@ function Navbar() {
             </Button>
             <Button
               sx={{
-                backgroundColor: "#215e80ff",
+                backgroundColor: "#043915",
                 color: "#fff",
-                '&:hover': { backgroundColor: "#1a9ed1" },
+                '&:hover': { backgroundColor: "#B0CE88" },
               }}
               variant="contained"
               size="small"
@@ -60,9 +60,9 @@ function Navbar() {
             </Button>
             <Button
               sx={{
-                backgroundColor: "#215e80ff",
+                backgroundColor: "#043915",
                 color: "#fff",
-                '&:hover': { backgroundColor: "#1a9ed1" },
+                '&:hover': { backgroundColor: "#B0CE88" },
               }}
               variant="contained"
               size="small"

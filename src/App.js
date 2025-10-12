@@ -75,7 +75,7 @@ function App() {
 
 
   return (
-    <div style={{backgroundColor: "#c2c2c2ff", padding: "5px", borderRadius: "10px", minHeight: "100vh"}}>
+    <div style={{backgroundColor: "#B0CE88", padding: "5px", borderRadius: "10px", minHeight: "100vh"}}>
     <Navbar />
 
     <Routes>
@@ -160,8 +160,20 @@ function App() {
     </Routes>
 
     <div style={{display: "flex", justifyContent: "left", gap: "15px", margin: "15px"}}>
-    {selectedRegion && <Chip color="success" label={formatRegion(selectedRegion)} size="medium" sx={{borderRadius: "5px"}}/>}
-    {selectedStreet && <Chip color="success" label={selectedStreet} sx={{borderRadius: "5px"}}/>}
+    {selectedRegion && <Chip color="success" label={formatRegion(selectedRegion)} size="medium" sx={{ 
+                borderRadius: "5px", 
+                color: "#FFF", 
+                backgroundColor: "#4C763B", // delikatny zielony dla kontrastu
+                fontWeight: "bold",
+                fontSize: "0.9rem"
+              }}/>}
+    {selectedStreet && <Chip color="success" label={selectedStreet} sx={{ 
+                borderRadius: "5px", 
+                color: "#FFF", 
+                backgroundColor: "#4C763B", // delikatny zielony dla kontrastu
+                fontWeight: "bold",
+                fontSize: "0.9rem"
+              }}/>}
     </div>
 
     {selectedStreet && (
@@ -173,8 +185,20 @@ function App() {
           <div>
             <h3 style={{ marginBottom: "15px", color: "#000000ff" }}>
               Najbliższe terminy odbioru odpadów dla ulicy{" "}
-              <Chip color="success" label={selectedStreet} sx={{borderRadius: "5px"}}/> w{" "}
-              <Chip color="success" label={formatRegion(selectedRegion)} sx={{borderRadius: "5px"}}/>:
+              <Chip label={selectedStreet} sx={{ 
+                borderRadius: "5px", 
+                color: "#FFF", 
+                backgroundColor: "#4C763B", // delikatny zielony dla kontrastu
+                fontWeight: "bold",
+                fontSize: "0.9rem"
+              }}/> w{" "}
+              <Chip color="success" label={formatRegion(selectedRegion)} sx={{ 
+                borderRadius: "5px", 
+                color: "#FFF", 
+                backgroundColor: "#4C763B", // delikatny zielony dla kontrastu
+                fontWeight: "bold",
+                fontSize: "0.9rem"
+              }}/>:
             </h3>
 
             {/** GROUPED BY MONTH */}
@@ -249,7 +273,7 @@ function App() {
                           style={{
                             padding: "12px",
                             backgroundColor: "#d1d1d1ff",
-                            borderLeft: `6px solid ${color}`,
+                            borderLeft: `8px solid ${color}`,
                             borderRadius: "10px",
                           }}
                         >
