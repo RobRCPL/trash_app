@@ -81,7 +81,7 @@ export default async function handler(req, res) {
                       <p style="color: #555; font-size: 16px;">
                         Prosimy o wystawienie odpadów przed 7:00 rano.
                       </p>
-                      <p style="font-size: 14px; color: #888;">Jeśli masz pytania, skontaktuj się z nami.</p>
+                      <p style="font-size: 14px; color: #888;">Jeśli masz pytania, skontaktuj się z administratorem.</p>
                     </td>
                   </tr>
                   <tr>
@@ -97,7 +97,7 @@ export default async function handler(req, res) {
 
         // Function to assign color to each waste type
         function getColorForWaste(odpad) {
-          switch (odpad.toLowerCase()) {
+          switch (odpad) {
             case 'Papier':
               return '#2196f3'; // Yellow for paper
             case 'Metale i Tworzywa':
