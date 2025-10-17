@@ -71,11 +71,12 @@ export default async function handler(req, res) {
                       <p style="color: #555; font-size: 16px;">
                         <strong>Data:</strong> ${dateStr}<br />
                         <strong>Rodzaj odpadów:</strong>
-                        <div style="margin-top: 10px; display: flex; flex-wrap: wrap; gap: 10px;">
+                        <div style="margin-top: 10px; display: flex; flex-wrap: wrap; gap: ${odpady.split(', ').length > 1 ? '20px' : '10px'};">
                           ${odpady.split(', ').map((odpad) => {
-                            const chipColor = getColorForWaste(odpad);
-                            return `<span style="background-color: ${chipColor}; color: white; padding: 5px 10px; border-radius: 15px; font-size: 14px; text-transform: capitalize;">${odpad}</span>`;
-                          }).join('')}
+                          const chipColor = getColorForWaste(odpad);
+                          const fontColor = odpad === 'Metale i Tworzywa' ? 'black' : 'white'; // Apply black font for 'Metale i Tworzywa'
+                          return `<span style="background-color: ${chipColor}; color: ${fontColor}; padding: 5px 10px; border-radius: 15px; font-size: 14px; text-transform: capitalize;">${odpad}</span>`;
+                        }).join('')}
                         </div>
                       </p>
                       <p style="color: #555; font-size: 16px;">
@@ -114,13 +115,6 @@ export default async function handler(req, res) {
               return '#9e9e9e'; // Default grey if no match
           }
         }
-
-        // await transporter.sendMail({
-        //   from: process.env.GMAIL_USER,
-        //   to,
-        //   subject: `📦 Odbiór odpadów jutro (${rejon})`,
-        //   text: `Jutro (${dateStr}) odbiór: ${odpady} w ${rejon}.`,
-        // });
       }
 
       console.log(`Wysłano przypomnienia dla ${rejon}: ${odpady}`);
