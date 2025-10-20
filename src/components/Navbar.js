@@ -1,8 +1,17 @@
 import { Box, AppBar, Toolbar, Button, Typography } from "@mui/material";
 import { Recycling } from "@mui/icons-material";
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom"; // ✅ Import Link
 
 function Navbar() {
+  const navButtons = [
+    { label: "Home", to: "/" },
+    { label: "Wybierz Rejon", to: "/Comp1" },
+    { label: "Wybierz Ulicę", to: "/Comp2" },
+    { label: "Powiadomienia", to: "/Addphone" },
+    { label: "Co gdzie wyrzucić", to: "/Comp3" },
+  ];
+
   return (
     <Box sx={{ flexGrow: 1 }}>
       <AppBar
@@ -17,19 +26,19 @@ function Navbar() {
         <Toolbar
           sx={{
             display: "flex",
-            flexWrap: "wrap", // allows wrapping on small screens
+            flexWrap: "wrap",
             justifyContent: "space-between",
             alignItems: "center",
             gap: { xs: 1, sm: 2, md: 5 },
             padding: { xs: "5px 10px", sm: "0 20px" },
           }}
         >
-          {/* 👇 ICON + TITLE grouped closer together */}
+          {/* ICON + TITLE */}
           <Box
             sx={{
               display: "flex",
               alignItems: "center",
-              gap: 1, // small space between icon and text
+              gap: 1,
             }}
           >
             <motion.div
@@ -51,17 +60,13 @@ function Navbar() {
             </Typography>
           </Box>
 
-          {/* 👇 Navigation buttons */}
+          {/* Navigation buttons */}
           <Box sx={{ display: "flex", flexWrap: "wrap", gap: 1 }}>
-            {[
-              { label: "Home", href: "/" },
-              { label: "Wybierz Rejon", href: "/Comp1" },
-              { label: "Wybierz Ulicę", href: "/Comp2" },
-              { label: "Powiadomienia", href: "/AddPhone" },
-              { label: "Co gdzie wyrzucić", href: "/Comp3" }
-            ].map((btn) => (
+            {navButtons.map((btn) => (
               <Button
                 key={btn.label}
+                component={Link} // ✅ Use Link for SPA navigation
+                to={btn.to}
                 sx={{
                   backgroundColor: "#043915",
                   color: "#fff",
@@ -69,7 +74,6 @@ function Navbar() {
                 }}
                 variant="contained"
                 size="small"
-                href={btn.href}
               >
                 {btn.label}
               </Button>
