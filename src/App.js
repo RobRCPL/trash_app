@@ -14,6 +14,7 @@ import {Recycling, Delete, Grass, Description, Liquor, Trolley} from "@mui/icons
 function App() {
 
   const location = useLocation();
+  const isComp3Page = location.pathname === "/Comp3";
 
   const [selectedRegion, setSelectedRegion] = useState(() =>{
     return sessionStorage.getItem("selectedRegion") || "";
@@ -178,7 +179,7 @@ function App() {
         }
       />
     </Routes>
-
+    {!isComp3Page &&( // nie pokazuj na stronie Comp3
     <div style={{display: "flex", justifyContent: "left", gap: "15px", margin: "15px"}}>
     {selectedRegion && <Chip color="success" label={formatRegion(selectedRegion)} size="medium" sx={{ 
                 borderRadius: "5px", 
@@ -195,6 +196,7 @@ function App() {
                 fontSize: "0.9rem"
               }}/>}
     </div>
+    )}
 
     {location.pathname !== "/Comp3" && selectedStreet && (
       <Paper

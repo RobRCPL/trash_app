@@ -1636,5 +1636,11 @@
         "odpad": "Żwirek",
         "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
         "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 274,
+        "odpad": "Ładowarka do telefonu",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
     }
 ]
