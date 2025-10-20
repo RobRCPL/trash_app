@@ -7,6 +7,7 @@ import AddPhone from "./components/AddPhone";
 import streetRegion from "./data/streetRegion.json";
 import datyodbioru from "./data/datyodbioru.json";
 import {Chip, Paper, Grid, Typography, Box} from '@mui/material';
+import {Recycling, Delete, Grass, Description, Liquor, Trolley} from "@mui/icons-material";
 
 
 function App() {
@@ -72,7 +73,17 @@ function App() {
     return Math.round((d - today) / (1000 * 60 * 60 * 24));
   };
 
-
+  const getWasteIcon = (type) => {
+    const lower = type.toLowerCase();
+    if (lower.includes("bio")) return <Grass sx={{ color: "brown" }} />;
+    if (lower.includes("papier")) return <Description sx={{ color: "#2196f3" }} />;
+    if (lower.includes("szkło")) return <Liquor sx={{ color: "#4caf50" }} />;
+    if (lower.includes("tworzywa") || lower.includes("metale"))
+      return <Recycling sx={{ color: "goldenrod" }} />;
+    if (lower.includes("zmieszane")) return <Delete sx={{ color: "#6d6d6d" }} />;
+    if (lower.includes("gabaryty")) return <Trolley sx={{ color: "#6a1b9a" }} />;
+    return <Recycling sx={{ color: "#6a1b9a" }} />;
+  };
 
   return (
     <div style={{backgroundColor: "#B0CE88", padding: "5px", borderRadius: "10px", minHeight: "100vh"}}>
@@ -236,150 +247,89 @@ function App() {
                     {month}
                   </h4>
                 </div>
-<Grid container spacing={2}>
-  {items.map((item, index) => {
-    const date = new Date(item.dataodbioru);
-    const wasteType = item.rodzajodpadu;
+                  <Grid container spacing={2}>
+                    {items.map((item, index) => {
+                      const date = new Date(item.dataodbioru);
+                      const wasteType = item.rodzajodpadu;
 
-    const getWasteColor = (type) => {
-      const lower = type.toLowerCase();
-      if (lower.includes("bio")) return "brown";
-      if (lower.includes("papier")) return "#2196f3";
-      if (lower.includes("szkło")) return "#4caf50";
-      if (lower.includes("plastik") || lower.includes("metale"))
-        return "yellow";
-      if (lower.includes("zmieszane")) return "#6d6d6dff";
-      return "#6a1b9a";
-    };
-    const color = getWasteColor(wasteType);
+                      const getWasteColor = (type) => {
+                        const lower = type.toLowerCase();
+                        if (lower.includes("bio")) return "brown";
+                        if (lower.includes("papier")) return "#2196f3";
+                        if (lower.includes("szkło")) return "#4caf50";
+                        if (lower.includes("plastik") || lower.includes("metale"))
+                          return "yellow";
+                        if (lower.includes("zmieszane")) return "#6d6d6dff";
+                        return "#6a1b9a";
+                      };
+                      const color = getWasteColor(wasteType);
 
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
-    const daysLeft = daysUntil(item.dataodbioru);
+                      const today = new Date();
+                      today.setHours(0, 0, 0, 0);
+                      const daysLeft = daysUntil(item.dataodbioru);
 
-    let daysLabel = "";
-    if (daysLeft === 0) daysLabel = "Dziś!";
-    else if (daysLeft === 1) daysLabel = "Jutro";
-    else daysLabel = `${daysLeft} dni`;
+                      let daysLabel = "";
+                      if (daysLeft === 0) daysLabel = "Dziś!";
+                      else if (daysLeft === 1) daysLabel = "Jutro";
+                      else daysLabel = `${daysLeft} dni`;
 
-    return (
-      <Grid item xs={12} sm={6} md={4} key={index}>
-        <Box
-          sx={{
-            display: "flex",
-            flexDirection: "column",
-            justifyContent: "space-between",
-            height: "85px", // Set a fixed height for uniformity
-            minWidth: "240px",
-            padding: "12px",
-            backgroundColor: "#d1d1d1ff",
-            borderLeft: `8px solid ${color}`,
-            borderRadius: "10px",
-          }}
-        >
-          <div
-            style={{
-              fontWeight: "bold",
-              color: color,
-              textTransform: "capitalize",
-            }}
-          >
-            {date.toLocaleDateString("pl-PL", {
-              weekday: "long",
-              day: "numeric",
-              month: "long",
-            })}
-          </div>
-
-          <div style={{ marginTop: "6px" }}>🗑️ {wasteType}</div>
-
-          <div
-            style={{
-              marginTop: "4px",
-              fontSize: "0.9rem",
-              fontWeight: daysLeft <= 1 ? "bold" : "normal",
-              color: daysLeft <= 1 ? "#d32f2f" : "#555",
-            }}
-          >
-            📅 {daysLabel} do odbioru
-          </div>
-        </Box>
-      </Grid>
-    );
-  })}
-</Grid>
-
-                {/* <Grid container spacing={2}>
-                  {items.map((item, index) => {
-                    const date = new Date(item.dataodbioru);
-                    const wasteType = item.rodzajodpadu;
-
-                    // ✅ Assign colors based on waste type
-                    const getWasteColor = (type) => {
-                    const lower = type.toLowerCase();
-                    if (lower.includes("bio")) return "brown";          // brown
-                    if (lower.includes("papier")) return "#2196f3";    // blue
-                    if (lower.includes("szkło")) return "#4caf50";     // darker green
-                    if (lower.includes("plastik") || lower.includes("metale"))
-                      return "yellow";
-                    if (lower.includes("zmieszane")) return "#6d6d6dff"; // grey
-                    return "#6a1b9a";                                  // purple fallback
-                    };
-                    const color = getWasteColor(wasteType);
-
-                    // ✅ Days left calculation
-                    const today = new Date();
-                    today.setHours(0, 0, 0, 0);
-                    const daysLeft = daysUntil(item.dataodbioru);
-
-                    // ✅ Label for days left
-                    let daysLabel = "";
-                    if (daysLeft === 0) daysLabel = "Dziś!";
-                    else if (daysLeft === 1) daysLabel = "Jutro";
-                    else daysLabel = `${daysLeft} dni`;
-
-                    return (
-                      <Grid item xs={12} sm={6} md={4} key={index}>
-                        <Paper
-                          elevation={3}
-                          style={{
-                            padding: "12px",
-                            backgroundColor: "#d1d1d1ff",
-                            borderLeft: `8px solid ${color}`,
-                            borderRadius: "10px",
-                          }}
-                        >
-                          <div
-                            style={{
-                              fontWeight: "bold",
-                              color: color,
-                              textTransform: "capitalize",
+                      return (
+                        <Grid item xs={12} sm={6} md={4} key={index}>
+                          <Box
+                            sx={{
+                              display: "flex",
+                              flexDirection: "column",
+                              justifyContent: "space-between",
+                              height: "85px",
+                              minWidth: "240px",
+                              padding: "12px",
+                              backgroundColor: "#d1d1d1ff",
+                              borderLeft: `8px solid ${color}`,
+                              borderRadius: "10px",
+                              position: "relative", // for positioning the icon
                             }}
                           >
-                            {date.toLocaleDateString("pl-PL", {
-                              weekday: "long",
-                              day: "numeric",
-                              month: "long",
-                            })}
-                          </div>
+                            <div
+                              style={{
+                                fontWeight: "bold",
+                                color: color,
+                                textTransform: "capitalize",
+                              }}
+                            >
+                              {date.toLocaleDateString("pl-PL", {
+                                weekday: "long",
+                                day: "numeric",
+                                month: "long",
+                              })}
+                            </div>
 
-                          <div style={{ marginTop: "6px" }}>🗑️ {wasteType}</div>
+                            <div style={{ marginTop: "6px" }}>🗑️ {wasteType}</div>
 
-                          <div
-                            style={{
-                              marginTop: "4px",
-                              fontSize: "0.9rem",
-                              fontWeight: daysLeft <= 1 ? "bold" : "normal",
-                              color: daysLeft <= 1 ? "#d32f2f" : "#555",
-                            }}
-                          >
-                            📅 {daysLabel} do odbioru
-                          </div>
-                        </Paper>
-                      </Grid>
-                    );
-                  })}
-                </Grid> */}
+                            <div
+                              style={{
+                                marginTop: "4px",
+                                fontSize: "0.9rem",
+                                fontWeight: daysLeft <= 1 ? "bold" : "normal",
+                                color: daysLeft <= 1 ? "#d32f2f" : "#555",
+                              }}
+                            >
+                              📅 {daysLabel} do odbioru
+                            </div>
+                            <div
+                              style={{
+                                position: "absolute",
+                                bottom: "6px",
+                                right: "8px",
+                                opacity: 0.85,
+                              }}
+                            >
+                              {getWasteIcon(wasteType)}
+                            </div>
+                          </Box>
+                        </Grid>
+                      );
+                    })}
+                  </Grid>
               </div>
             ))}
           </div>
