@@ -7,7 +7,9 @@ function Navbar() {
         position="static"
         sx={{ 
           backgroundColor: "#4C763B", 
-          borderRadius: "10px" 
+          borderRadius: "10px",
+          paddingBottom: "8px",
+          paddingTop: "5px"
         }}
       >
         <Toolbar

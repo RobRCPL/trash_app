@@ -236,8 +236,80 @@ function App() {
                     {month}
                   </h4>
                 </div>
+<Grid container spacing={2}>
+  {items.map((item, index) => {
+    const date = new Date(item.dataodbioru);
+    const wasteType = item.rodzajodpadu;
 
-                <Grid container spacing={2}>
+    const getWasteColor = (type) => {
+      const lower = type.toLowerCase();
+      if (lower.includes("bio")) return "brown";
+      if (lower.includes("papier")) return "#2196f3";
+      if (lower.includes("szkło")) return "#4caf50";
+      if (lower.includes("plastik") || lower.includes("metale"))
+        return "yellow";
+      if (lower.includes("zmieszane")) return "#6d6d6dff";
+      return "#6a1b9a";
+    };
+    const color = getWasteColor(wasteType);
+
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    const daysLeft = daysUntil(item.dataodbioru);
+
+    let daysLabel = "";
+    if (daysLeft === 0) daysLabel = "Dziś!";
+    else if (daysLeft === 1) daysLabel = "Jutro";
+    else daysLabel = `${daysLeft} dni`;
+
+    return (
+      <Grid item xs={12} sm={6} md={4} key={index}>
+        <Box
+          sx={{
+            display: "flex",
+            flexDirection: "column",
+            justifyContent: "space-between",
+            height: "90px", // Set a fixed height for uniformity
+            minWidth: "210px",
+            padding: "12px",
+            backgroundColor: "#d1d1d1ff",
+            borderLeft: `8px solid ${color}`,
+            borderRadius: "10px",
+          }}
+        >
+          <div
+            style={{
+              fontWeight: "bold",
+              color: color,
+              textTransform: "capitalize",
+            }}
+          >
+            {date.toLocaleDateString("pl-PL", {
+              weekday: "long",
+              day: "numeric",
+              month: "long",
+            })}
+          </div>
+
+          <div style={{ marginTop: "6px" }}>🗑️ {wasteType}</div>
+
+          <div
+            style={{
+              marginTop: "4px",
+              fontSize: "0.9rem",
+              fontWeight: daysLeft <= 1 ? "bold" : "normal",
+              color: daysLeft <= 1 ? "#d32f2f" : "#555",
+            }}
+          >
+            📅 {daysLabel} do odbioru
+          </div>
+        </Box>
+      </Grid>
+    );
+  })}
+</Grid>
+
+                {/* <Grid container spacing={2}>
                   {items.map((item, index) => {
                     const date = new Date(item.dataodbioru);
                     const wasteType = item.rodzajodpadu;
@@ -307,7 +379,7 @@ function App() {
                       </Grid>
                     );
                   })}
-                </Grid>
+                </Grid> */}
               </div>
             ))}
           </div>
