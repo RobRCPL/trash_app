@@ -1,0 +1,1640 @@
+[
+    {
+        "_id": 1,
+        "odpad": "Aluminium",
+        "opis": "Metal kolorowy",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 2,
+        "odpad": "Bandaż",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 3,
+        "odpad": "Bateria",
+        "opis": "Wrzucamy do specjalnych pojemników, które można znaleźć w sklepach sprzedających baterie, w szkołach, Konstantynowskiej Spółdzielni Mieszkaniowej (ul. Piłsudskiego 32) i Urzędzie Miejskim (ul. Zgierska 2, Konstantynów Łódzki)",
+        "pojemnikNaOdpad": "Baterie"
+    },
+    {
+        "_id": 4,
+        "odpad": "Blacha",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem, do 1,5 m długości",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 5,
+        "odpad": "Blacha do pieczenia",
+        "opis": "Czysta pusta metalowa blacha do pieczenia",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 6,
+        "odpad": "Brąz",
+        "opis": "Metal kolorowy",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 7,
+        "odpad": "Broszura",
+        "opis": "Czysta sucha broszura po wcześniejszym usunięciu plastikowych lub metalowych elementów np. zszywek",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 8,
+        "odpad": "Butelka plastikowa",
+        "opis": "Zgniecione puste opakowanie po napoju typu PET",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 9,
+        "odpad": "Butelka po chemii gospodarczej",
+        "opis": "Czyste puste opakowanie po chemii gospodarczej",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 10,
+        "odpad": "Butelka po kosmetyku",
+        "opis": "Czyste puste opakowanie po kosmetyku",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 11,
+        "odpad": "Butelka szklana",
+        "opis": "Pusta czysta niepotłuczona butelka szklana biała lub kolorowa bez nakrętki, korka, reklamówki",
+        "pojemnikNaOdpad": "Szkło"
+    },
+    {
+        "_id": 12,
+        "odpad": "Butelka szklana po napoju alkoholowym",
+        "opis": "Pusta czysta niepotłuczona butelka szklana po napoju alkoholowym",
+        "pojemnikNaOdpad": "Szkło"
+    },
+    {
+        "_id": 13,
+        "odpad": "Butelka szklana po oleju roślinnym",
+        "opis": "Pusta czysta niepotłuczona butelka szklana białą lub kolorowa po oleju roślinnym",
+        "pojemnikNaOdpad": "Szkło"
+    },
+    {
+        "_id": 14,
+        "odpad": "Ceramika",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 15,
+        "odpad": "Chawsty",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 16,
+        "odpad": "Chłodziarka",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 17,
+        "odpad": "Cyfrowa ramka LCD do zdjęć",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 18,
+        "odpad": "Cyna",
+        "opis": "Metal kolorowy",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 19,
+        "odpad": "Cynk",
+        "opis": "Metal kolorowy",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 20,
+        "odpad": "Czajnik elekryczny",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 21,
+        "odpad": "Czasopismo",
+        "opis": "Czyste suche czasopismo po wcześniejszym usunięciu plastikowych lub metalowych elementów np. zszywek, foliowej okładki",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 22,
+        "odpad": "Czujnik dymu",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 23,
+        "odpad": "Depilator",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 24,
+        "odpad": "Deska",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 25,
+        "odpad": "Doniczka",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 26,
+        "odpad": "Drobne AGD",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 27,
+        "odpad": "Drukarka",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 28,
+        "odpad": "Ekran",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 29,
+        "odpad": "Ekspres do kawy",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 30,
+        "odpad": "Elektryczna płyta grzejna",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 31,
+        "odpad": "Etykieta z folii termokurczliwej",
+        "opis": "Czysta etykieta z folii termokurczliwej",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 32,
+        "odpad": "Fajans",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 33,
+        "odpad": "Farba",
+        "opis": "Przeterminowane lub zbędne chemikalia przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 34,
+        "odpad": "Folia aluminiowa",
+        "opis": "Zgnieciona folia aluminiowa",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 35,
+        "odpad": "Folia opakowaniowa",
+        "opis": "Zgnieciona folia opakowaniowa",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 36,
+        "odpad": "Foliowa saszetka po kosmetyku",
+        "opis": "Zgnieciona pusta foliowa saszetka po kosmetyku",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 37,
+        "odpad": "Foliowa saszetka po żywności",
+        "opis": "Zgnieciona pusta foliowa saszetka po żywności",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 38,
+        "odpad": "Fotel",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 39,
+        "odpad": "Fusy po herbacie",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 40,
+        "odpad": "Fusy po kawie",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 41,
+        "odpad": "Garnek",
+        "opis": "Czysty pusty metalowy garnek",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 42,
+        "odpad": "Gazeta",
+        "opis": "Czysta sucha gazeta lub inna prasa",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 43,
+        "odpad": "Gąbka",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 44,
+        "odpad": "Golarka elektryczna",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 45,
+        "odpad": "Gruz betonowy",
+        "opis": "Wrzucamy do worka typu big-bag o poj. 1 m3, który można pobrać w Urzędzie Miejskim (ul. Zgierska 2, Konstantynów Łódzki, I p. pok. 7, pierwszy worek jest darmowy, każdy kolejny kosztuje 450 zł)",
+        "pojemnikNaOdpad": "Gruz"
+    },
+    {
+        "_id": 46,
+        "odpad": "Gruz ceglany",
+        "opis": "Wrzucamy do worka typu big-bag o poj. 1 m3, który można pobrać w Urzędzie Miejskim (ul. Zgierska 2, Konstantynów Łódzki, I p. pok. 7, pierwszy worek jest darmowy, każdy kolejny kosztuje 450 zł)",
+        "pojemnikNaOdpad": "Gruz"
+    },
+    {
+        "_id": 47,
+        "odpad": "Grzejnik elektryczny",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 48,
+        "odpad": "Grzyby",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 49,
+        "odpad": "Inne plastikowe opakowanie",
+        "opis": "Czyste puste opakowanie z tworzywa sztucznego oznakowane symbolem recyklingu",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 50,
+        "odpad": "Jaja",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 51,
+        "odpad": "Kalkulator",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 52,
+        "odpad": "Kamera wideo",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 53,
+        "odpad": "Kapsel",
+        "opis": "Metalowe i aluminiowe opakowanie o małych rozmiarach",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 54,
+        "odpad": "Karnisz",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem, do 1,5 m długości",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 55,
+        "odpad": "Karton",
+        "opis": "Zgnieciony suchy niezabrudzony i nietłusty karton tekturowy po wcześniejszym usunięciu taśmy klejącej, etykiety i innych plastikowych elementów",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 56,
+        "odpad": "Karton po mleku",
+        "opis": "Wielomateriałowy pusty karton po mleku",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 57,
+        "odpad": "Karton po soku",
+        "opis": "Wielomateriałowy pusty karton po napoju",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 58,
+        "odpad": "Kartonowe opakowanie",
+        "opis": "Zgniecione suche niezabrudzone i nietłuste kartonowe opakowanie po wcześniejszym usunięciu taśmy klejącej, etykiety i innych plastikowych elementów",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 59,
+        "odpad": "Kartonowe pudło",
+        "opis": "Zgniecione suche niezabrudzone i nietłuste kartonowe pudło po wcześniejszym usunięciu taśmy klejącej, etykiety i innych plastkowych elementów",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 60,
+        "odpad": "Kaspułka po kawie",
+        "opis": "Czysta pusta kapsułka po kawie",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 61,
+        "odpad": "Katalog",
+        "opis": "Czysty suchy katalog po wcześniejszym usunięciu plastikowych lub metalowych elementów np. zszywek, foliowej okładki",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 62,
+        "odpad": "Klej",
+        "opis": "Przeterminowane lub zbędne chemikalia przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 63,
+        "odpad": "Klimatyzator",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 64,
+        "odpad": "Komoda",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 65,
+        "odpad": "Komputer",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 66,
+        "odpad": "Koperta",
+        "opis": "Sucha niezabrudzona i nietłusta koperta po wcześniejszym usunięciu plastikowych elementów tj. okienko adresowe",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 67,
+        "odpad": "Koperta z folią bąbelkową",
+        "opis": "Czysta pusta koperta z folią bąbelkową w środku",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 68,
+        "odpad": "Kora",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 69,
+        "odpad": "Koszyk plastikowy po owocach",
+        "opis": "Czysty pusty koszyk plastikowy po owocach",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 70,
+        "odpad": "Kość",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 71,
+        "odpad": "Kserokopiarka",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 72,
+        "odpad": "Książka",
+        "opis": "Czysta sucha ksiązka po wcześniejszym usunięciu plastikowych lub metalowych elementów np. zszywek, płociennej lub foliowej okładki",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 73,
+        "odpad": "Kuchenka elektryczna",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 74,
+        "odpad": "Kuchenka mikrofalowa",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 75,
+        "odpad": "Kurz z odkurzacza",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 76,
+        "odpad": "Lakier",
+        "opis": "Przeterminowane lub zbędne chemikalia przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 77,
+        "odpad": "Lampa fluorescencyjna",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 78,
+        "odpad": "Lampa LED",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 79,
+        "odpad": "Laptop",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 80,
+        "odpad": "Listwa",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 81,
+        "odpad": "Liście",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 82,
+        "odpad": "Lodówka",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 83,
+        "odpad": "Lokówka",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 84,
+        "odpad": "Lustro",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 85,
+        "odpad": "Łóżko",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 86,
+        "odpad": "Łupiny po orzechach",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 87,
+        "odpad": "Magnetowid",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 88,
+        "odpad": "Maszyna do szycia",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 89,
+        "odpad": "Maszynka do golenia",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 90,
+        "odpad": "Meble",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 91,
+        "odpad": "Meblościanka",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 92,
+        "odpad": "Miedź",
+        "opis": "Metal kolorowy",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 93,
+        "odpad": "Mięso",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 94,
+        "odpad": "Misker",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 95,
+        "odpad": "Monitor",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 96,
+        "odpad": "Mosiądz",
+        "opis": "Metal kolorowy",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 97,
+        "odpad": "Nabiał",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 98,
+        "odpad": "Naczynie kuchenne z arcoroku",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 99,
+        "odpad": "Naczynie kuchenne z porcelany",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 100,
+        "odpad": "Naczynie żaroodporne",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 101,
+        "odpad": "Nakrętka",
+        "opis": "Plastikowa lub metalowa nakrętka po napoju",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 102,
+        "odpad": "Narzędzie elektroniczne",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 103,
+        "odpad": "Narzędzie elektryczne",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 104,
+        "odpad": "Niedopałki papierosów",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 105,
+        "odpad": "Niezaimpregnowane drewno",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 106,
+        "odpad": "Notebook",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 107,
+        "odpad": "Nóż elektryczny",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 108,
+        "odpad": "Obierki owocowe",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 109,
+        "odpad": "Obierki warzywne",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 110,
+        "odpad": "Odchody zwierząt",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 111,
+        "odpad": "Odkurzacz",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 112,
+        "odpad": "Odpad z materiału ceramicznego",
+        "opis": "Wrzucamy do worka typu big-bag o poj. 1 m3, który można pobrać w Urzędzie Miejskim (ul. Zgierska 2, Konstantynów Łódzki, I p. pok. 7, pierwszy worek jest darmowy, każdy kolejny kosztuje 450 zł)",
+        "pojemnikNaOdpad": "Odpady poremontowe"
+    },
+    {
+        "_id": 113,
+        "odpad": "Odpad z utrzymania czystości w domu",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 114,
+        "odpad": "Odpady poremontowe",
+        "opis": "Wrzucamy do worka typu big-bag o poj. 1 m3, który można pobrać w Urzędzie Miejskim (ul. Zgierska 2, Konstantynów Łódzki, I p. pok. 7, pierwszy worek jest darmowy, każdy kolejny kosztuje 450 zł)",
+        "pojemnikNaOdpad": "Odpady poremontowe"
+    },
+    {
+        "_id": 115,
+        "odpad": "Olej do smażenia",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 116,
+        "odpad": "Olej hydrauliczny",
+        "opis": "Przeterminowane lub zbędne chemikalia przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 117,
+        "odpad": "Olej inny poza jadalnym",
+        "opis": "Przeterminowane lub zbędne chemikalia przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 118,
+        "odpad": "Olej silnikowy",
+        "opis": "Przeterminowane lub zbędne chemikalia przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 119,
+        "odpad": "Olej smarowy",
+        "opis": "Przeterminowane lub zbędne chemikalia przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 120,
+        "odpad": "Ołów",
+        "opis": "Metal kolorowy",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 121,
+        "odpad": "Opakowanie po chemikaliach",
+        "opis": "Przeterminowane lub zbędne opakowanie po chemikaliach przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 122,
+        "odpad": "Opakowanie po jogurcie",
+        "opis": "Zgniecione puste opakowanie po jogurcie lub innym wyrobie mlecznym",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 123,
+        "odpad": "Opakowanie po kefrze",
+        "opis": "Zgniecione puste opakowanie po kefirze lub innym wyrobie mlecznym",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 124,
+        "odpad": "Opakowanie po margarynie",
+        "opis": "Zgniecione puste opakowanie po margarynie lub innym wyrobie mlecznym",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 125,
+        "odpad": "Opakowanie po maślance",
+        "opis": "Zgniecione puste opakowanie po maślance lub innym wyrobie mlecznym",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 126,
+        "odpad": "Opakowanie po serku",
+        "opis": "Zgniecione puste opakowanie po serku lub innym wyrobie mlecznym",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 127,
+        "odpad": "Opakowanie z papieru",
+        "opis": "Zgniecione suche niezabrudzone i nietłuste opakowanie z papieru po wcześniejszym usunięciu taśmy klejącej, etykiety i innych plastikowych elementów",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 128,
+        "odpad": "Opakowanie z zawartością",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 129,
+        "odpad": "Opony zużyte",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem, 4 szt. na gospodarstwo domowe",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 130,
+        "odpad": "Oprawa oświetleniowa",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 131,
+        "odpad": "Ość",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 132,
+        "odpad": "Owoce spadłe z drzew",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 133,
+        "odpad": "Pałeczka higieniczna",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 134,
+        "odpad": "Panel fotowoltaiczny",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 135,
+        "odpad": "Papier biurowy",
+        "opis": "Suchy niezabrudzony i nietłusty papier biiurowy",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 136,
+        "odpad": "Papier do pisania",
+        "opis": "Suchy nietłusty i niezbrudzony papier do pisania",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 137,
+        "odpad": "Papier kserograficzny",
+        "opis": "Suchy niezabrudzony i nietłusty papier kserograficzny, w tym także kolorowy",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 138,
+        "odpad": "Papier pakowy",
+        "opis": "Zgnieciony suchy czysty i nietłusty papier pakowy",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 139,
+        "odpad": "Papier szkolny",
+        "opis": "Suchy niezabrudzony i nietłusty papier szkolny",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 140,
+        "odpad": "Papierowa torba",
+        "opis": "Zgnieciona sucha nietłusta i niezabrudzona torba z papieru kredowego",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 141,
+        "odpad": "Papierowy worek",
+        "opis": "Zgnieciony suchy czysty i nietłusty papierowy worek",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 142,
+        "odpad": "Paragon z bankomatu",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 143,
+        "odpad": "Paragon ze sklepu",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 144,
+        "odpad": "Pergamin",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 145,
+        "odpad": "Piasek",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 146,
+        "odpad": "Piekarnik elektryczny",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 147,
+        "odpad": "Pielucha jednorazowa",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 148,
+        "odpad": "Pióro",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 149,
+        "odpad": "Plastikowe opakowanie po tłuszczu",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 150,
+        "odpad": "Plastikowe opakowanie po żywności",
+        "opis": "Czyste puste plastikowe opakowanie po żywności",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 151,
+        "odpad": "Podpaski",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 152,
+        "odpad": "Pojemnik po wyrobach garmażeryjnych",
+        "opis": "Czysty pusty pojemnik po wyrobach garmażeryjnych",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 153,
+        "odpad": "Pokrywka",
+        "opis": "Pokrywka od słoika",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 154,
+        "odpad": "Pompa ciepła",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 155,
+        "odpad": "Porcelana",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 156,
+        "odpad": "Potrawa gotowana",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 157,
+        "odpad": "Pralka",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 158,
+        "odpad": "Produkt futrzany",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 159,
+        "odpad": "Produkt higieniczny",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 160,
+        "odpad": "Produkt skórzany",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 161,
+        "odpad": "Produkt z biodegradowalnego plastiku",
+        "opis": "Czysty pusty produkt z biodegradowalnego plastiku",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 162,
+        "odpad": "Produkt z gumy",
+        "opis": "Czysty pusty produkt z gumy",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 163,
+        "odpad": "Produkt z kauczuku",
+        "opis": "Czysty pusty produkt z kauczuku",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 164,
+        "odpad": "Projektor",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 165,
+        "odpad": "Prospekt",
+        "opis": "Czysty suchy prospekt po wcześniejszym usunięciu plastikowych lub metalowych elementów np. zszywek",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 166,
+        "odpad": "Prostownica do włosów",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 167,
+        "odpad": "Przeterminowane leki",
+        "opis": "Wrzucamy do pojemników ustawionych w aptekach na terenie całego miasta",
+        "pojemnikNaOdpad": "Leki"
+    },
+    {
+        "_id": 168,
+        "odpad": "Pudełko po pizzy",
+        "opis": "Zgniecione suche niezabrudzone i nietłuste pudełko po pizzy",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 169,
+        "odpad": "Puszka po napoju",
+        "opis": "Zgnieciona pusta metalowa puszka po napoju",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 170,
+        "odpad": "Puszka po żywności",
+        "opis": "Zgnieciona pusta metalowa puszka po żywności",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 171,
+        "odpad": "Radio",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 172,
+        "odpad": "Rama drzwiowa bez szyby",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 173,
+        "odpad": "Rama okienna bez szyby",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 174,
+        "odpad": "Regulator ciepła",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 175,
+        "odpad": "Reklama",
+        "opis": "Czysta sucha reklama po wcześniejszym usunięciu plastikowych lub metalowych elementów np. zszywek",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 176,
+        "odpad": "Reklamówka",
+        "opis": "Czysta reklamówka foliowa",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 177,
+        "odpad": "Resztki jedzenia",
+        "opis": "Niepłynne i niemięsne odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 178,
+        "odpad": "Resztki zwierzęce",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 179,
+        "odpad": "Router",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 180,
+        "odpad": "Rozdrobione gałęzie",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 181,
+        "odpad": "Rozpuszczalnik",
+        "opis": "Przeterminowane lub zbędne chemikalia przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 182,
+        "odpad": "Rura",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem, do 1,5 m długości",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 183,
+        "odpad": "Rurka po papierze toaletowym",
+        "opis": "Zgnieciona sucha niezabrudzona i nietłusta ruraka po papierze toaletowym",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 184,
+        "odpad": "Rurka po ręczniku papierowym",
+        "opis": "Zgnieciona sucha niezabrudzona i nietłusta rurka po ręczniku papierowym",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 185,
+        "odpad": "Ryby",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 186,
+        "odpad": "Rynna",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem, do 1,5 m długości",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 187,
+        "odpad": "Ser",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 188,
+        "odpad": "Sierść",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 189,
+        "odpad": "Skorupka jajka",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 190,
+        "odpad": "Skrzynka",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 191,
+        "odpad": "Słoik po napoju",
+        "opis": "Pusty czysty niepotłuczony słoik po napoju",
+        "pojemnikNaOdpad": "Szkło"
+    },
+    {
+        "_id": 192,
+        "odpad": "Słoik po żywności",
+        "opis": "Pusty czysty niepotłuczony słoik po żywności",
+        "pojemnikNaOdpad": "Szkło"
+    },
+    {
+        "_id": 193,
+        "odpad": "Sofa",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 194,
+        "odpad": "Sprzęt do odtwarzania dźwięku",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 195,
+        "odpad": "Sprzęt do pielęgnacji ciała",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 196,
+        "odpad": "Sprzęt do pielęgnacji włosów",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 197,
+        "odpad": "Sprzęt elektryczny i elektroniczny",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 198,
+        "odpad": "Sprzęt hi-fi",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 199,
+        "odpad": "Sprzęt muzyczny",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 200,
+        "odpad": "Sprzęt RTV",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 201,
+        "odpad": "Styropian",
+        "opis": "Czysty styropian opakowniowy",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 202,
+        "odpad": "Suche pieczywo",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 203,
+        "odpad": "Suszarka do odzieży",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 204,
+        "odpad": "Suszarka do włosów",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 205,
+        "odpad": "Szafka",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 206,
+        "odpad": "Szczoteczka elektryczna",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 207,
+        "odpad": "Szklane opakowanie po kosmetyku",
+        "opis": "Puste czyste niepotłuczone szklane opakowanie po kosmetyku, jeśli nie są wykonane z trwale połączonych kilku surowców",
+        "pojemnikNaOdpad": "Szkło"
+    },
+    {
+        "_id": 208,
+        "odpad": "Szklane przedmioty",
+        "opis": "Puste czyste niepotłuczone szklane przedmioty ze znakiem GL70, GL71 oraz GL72",
+        "pojemnikNaOdpad": "Szkło"
+    },
+    {
+        "_id": 209,
+        "odpad": "Szmatka",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 210,
+        "odpad": "Środek czystości",
+        "opis": "Przeterminowane lub zbędne chemikalia przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 211,
+        "odpad": "Środek ochrony roślin",
+        "opis": "Przeterminowane lub zbędne chemikalia przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 212,
+        "odpad": "Środek stosowany w chemii gospodarczej",
+        "opis": "Przeterminowane lub zbędne chemikalia przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 213,
+        "odpad": "Świetlówka",
+        "opis": "Oddajemy w Urzędzie Miejskim (ul. Zgierska 2, Konstantynów Łódzki)",
+        "pojemnikNaOdpad": "Świetlówki"
+    },
+    {
+        "_id": 214,
+        "odpad": "Talerz",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 215,
+        "odpad": "Tampon",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 216,
+        "odpad": "Tapczan",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 217,
+        "odpad": "Tekstura falista",
+        "opis": "Zgnieciona sucha niezabrudzona i nietłusta tektura falista",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 218,
+        "odpad": "Tektura",
+        "opis": "Zgnieciona sucha niezabrudzona i nietłusta tektura",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 219,
+        "odpad": "Telefon komórkowy",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 220,
+        "odpad": "Telewizor",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 221,
+        "odpad": "Termostat",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 222,
+        "odpad": "Toner do drukarki",
+        "opis": "Przeterminowane lub zbędne chemikalia przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 223,
+        "odpad": "Torebka foliowa",
+        "opis": "Czysta torebka foliowa",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 224,
+        "odpad": "Torebka po herbacie",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 225,
+        "odpad": "Toster",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 226,
+        "odpad": "Trawa",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 227,
+        "odpad": "Trociny",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 228,
+        "odpad": "Trociny z kuwety dla zwierząt",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 229,
+        "odpad": "Tubka po paście do zębów",
+        "opis": "Zgnieciona pusta tubka po paście do zębów",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 230,
+        "odpad": "Tusz do drukarki",
+        "opis": "Przeterminowane lub zbędne chemikalia przeznaczone do unieszkodliwienia oddajemy do punktu zlokalizowanego w Konstantynowie Łódzkim ul. Łaska 16",
+        "pojemnikNaOdpad": "Chemikalia"
+    },
+    {
+        "_id": 231,
+        "odpad": "Ugotowane warzywa",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 232,
+        "odpad": "Ulotka",
+        "opis": "Czysta sucha ulotka po wcześniejszym usunięciu plastikowych lub metalowych elementów np. zszywek",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 233,
+        "odpad": "Wacik higieniczny",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 234,
+        "odpad": "Waga elektryczna",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 235,
+        "odpad": "Wata",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 236,
+        "odpad": "Wentylator",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 237,
+        "odpad": "Wersalka",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 238,
+        "odpad": "Wędlina",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 239,
+        "odpad": "Wiadro",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 240,
+        "odpad": "Włosy",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 241,
+        "odpad": "Worek plastikowy",
+        "opis": "Czysty worek plastikowy",
+        "pojemnikNaOdpad": "Metale i tworzywa sztuczne"
+    },
+    {
+        "_id": 242,
+        "odpad": "Wykładzina",
+        "opis": "Wielkogabaryty odbierane w ramach zbiórki objazdowej, zgodnie z harmonogramem",
+        "pojemnikNaOdpad": "Wielkogabaryty"
+    },
+    {
+        "_id": 243,
+        "odpad": "Wysokoprężna lampa wyładowcza",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 244,
+        "odpad": "Zabawka elektroniczna",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 245,
+        "odpad": "Zabawka elektryczna",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 246,
+        "odpad": "Zabrudzona folia",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 247,
+        "odpad": "Zabrudzona tektura",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 248,
+        "odpad": "Zabrudzony papier",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 249,
+        "odpad": "Zadrukowana kartka",
+        "opis": "Sucha niezabrudzona i nietłusta zadrukowana kartka",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 250,
+        "odpad": "Zamrażarka",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 251,
+        "odpad": "Zanieczyszczony worek opakowaniowy",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 252,
+        "odpad": "Zapalniczka",
+        "opis": "Pusta zapalniczka, odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyjątkiem",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 253,
+        "odpad": "Zatłuszczony papier",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 254,
+        "odpad": "Zbite kieliszki",
+        "opis": "Potłuczone kawałki kieliszka, odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 255,
+        "odpad": "Zbite naczynie",
+        "opis": "Potłuczone kawałki naczynia, odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 256,
+        "odpad": "Zbite szklanki",
+        "opis": "Potłuczone kawałki szklanki, odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 257,
+        "odpad": "Zbite szkło",
+        "opis": "Potłuczone kawałki szkła, odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 258,
+        "odpad": "Zegar elektryczny",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 259,
+        "odpad": "Zeszyt",
+        "opis": "Czysty (nieubrudzony tłuszczem) suchy zeszyt po wcześniejszym usunięciu zszywek",
+        "pojemnikNaOdpad": "Papier"
+    },
+    {
+        "_id": 260,
+        "odpad": "Zimny popiół",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 261,
+        "odpad": "Zmywarka",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 262,
+        "odpad": "Zużyta chusteczka higieniczna",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 263,
+        "odpad": "Zużyte obuwie",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 264,
+        "odpad": "Zużyte tekstylia",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 265,
+        "odpad": "Zużyte ubranie",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 266,
+        "odpad": "Zużyte zabawki z łączonych materiałów",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 267,
+        "odpad": "Zużyty ręcznik papierowy",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 268,
+        "odpad": "Zwiędłe kwiaty",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi bez ziemi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 269,
+        "odpad": "Zwiędłe rośłiny doniczkowe",
+        "opis": "Odpadki organiczne ulegające naturalnemu rozkładowi bez ziemi niezapakowane np. w plastikowe worki",
+        "pojemnikNaOdpad": "Bioodpady"
+    },
+    {
+        "_id": 270,
+        "odpad": "Zwykła żarówka żarnikowa",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    },
+    {
+        "_id": 271,
+        "odpad": "Żelazko",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 272,
+        "odpad": "Żelazko",
+        "opis": "Zużyty sprzęt elektryczny i elektroniczny oddajemy w sklepie, w którym kupujemy nowy sprzęt, w specjalnych punktach lub podczas zbiórki wielkogabarytów",
+        "pojemnikNaOdpad": "Elektroodpady"
+    },
+    {
+        "_id": 273,
+        "odpad": "Żwirek",
+        "opis": "Odpad niesegregowalny, którego nie można odzyskać w procesie recyklingu, z wyłączeniem odpadów niebezpiecznych",
+        "pojemnikNaOdpad": "Zmieszane"
+    }
+]

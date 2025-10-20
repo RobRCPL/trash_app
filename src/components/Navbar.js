@@ -58,6 +58,7 @@ function Navbar() {
               { label: "Wybierz Rejon", href: "/Comp1" },
               { label: "Wybierz Ulicę", href: "/Comp2" },
               { label: "Powiadomienia", href: "/AddPhone" },
+              { label: "Co gdzie wyrzucić", href: "/Comp3" }
             ].map((btn) => (
               <Button
                 key={btn.label}

@@ -1,7 +1,8 @@
-import {Route, Routes} from "react-router-dom";
+import {Route, Routes, useLocation} from "react-router-dom";
 import { useState, useEffect } from "react";
 import Comp1 from "./components/Comp1";
 import Comp2 from "./components/Comp2";
+import Comp3 from "./components/Comp3";
 import Navbar from "./components/Navbar";
 import AddPhone from "./components/AddPhone";
 import streetRegion from "./data/streetRegion.json";
@@ -11,6 +12,8 @@ import {Recycling, Delete, Grass, Description, Liquor, Trolley} from "@mui/icons
 
 
 function App() {
+
+  const location = useLocation();
 
   const [selectedRegion, setSelectedRegion] = useState(() =>{
     return sessionStorage.getItem("selectedRegion") || "";
@@ -168,6 +171,12 @@ function App() {
           selectedStreet={selectedStreet}/>
         }
       />
+      <Route
+        path="/comp3"
+        element={
+          <Comp3 />
+        }
+      />
     </Routes>
 
     <div style={{display: "flex", justifyContent: "left", gap: "15px", margin: "15px"}}>
@@ -187,7 +196,7 @@ function App() {
               }}/>}
     </div>
 
-    {selectedStreet && (
+    {location.pathname !== "/Comp3" && selectedStreet && (
       <Paper
         elevation={4}
         style={{ padding: "20px", margin: "15px", textAlign: "left" }}
