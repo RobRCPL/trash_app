@@ -270,7 +270,7 @@ function App() {
             flexDirection: "column",
             justifyContent: "space-between",
             height: "85px", // Set a fixed height for uniformity
-            minWidth: "230px",
+            minWidth: "240px",
             padding: "12px",
             backgroundColor: "#d1d1d1ff",
             borderLeft: `8px solid ${color}`,
